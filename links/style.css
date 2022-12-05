@@ -1,0 +1,15 @@
+#myFakeElement { color:red ; }
+
+body { 
+	max-width: 750px;
+  margin: auto !important;
+  border: 35px none #EBECF0;
+  
+}
+
+pre { 
+	word-wrap:break-word;
+	white-space: pre-wrap;
+}
+
+img { max-width:100%; height: auto;}
