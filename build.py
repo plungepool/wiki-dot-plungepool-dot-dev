@@ -20,7 +20,9 @@ for f in glob.iglob('src/*.md'):
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>devices</title>
+    <title>''')
+        file.write(file_name.removesuffix('.md'))
+        file.write(r'''</title>
     <link rel="stylesheet" href="../links/style.css">
     <link rel="icon" href="./favicon.ico" type="image/x-icon">
   </head>

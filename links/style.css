@@ -13,3 +13,15 @@ pre {
 }
 
 img { max-width:100%; height: auto;}
+
+div, iframe {
+/*    width: 75%;*/
+/*    height: auto;*/
+    margin: 0 auto;
+    background-color: #777;
+}
+
+iframe {
+    display: block;
+    border-style:none;
+}
