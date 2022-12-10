@@ -1,9 +1,10 @@
 #myFakeElement { color:red ; }
 
 body { 
-	max-width: 750px;
-  margin: auto !important;
-  border: 35px none #EBECF0;
+	max-width: calc(100% - 200px);
+    margin: auto !important;
+/*  border: 35px none #EBECF0;*/
+    border: 35px dashed #00FF00;
   
 }
 
@@ -12,16 +13,52 @@ pre {
 	white-space: pre-wrap;
 }
 
-img { max-width:100%; height: auto;}
+.index {
+    margin: 0 auto;
+    text-align: center;
+}
 
-div, iframe {
+img {
+  margin: auto;
+  display: block;
+}
+
+/* Style the buttons that are used to open and close the accordion panel */
+.accordion {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  text-align: left;
+  border: none;
+  outline: none;
+  transition: 0.4s;
+}
+
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+.active, .accordion:hover {
+  background-color: #ccc;
+}
+
+/* Style the accordion panel. Note: hidden by default */
+.panel {
+  padding: 0 18px;
+  background-color: white;
+  display: none;
+  overflow: hidden;
+}
+
+/*img { max-width:100%; height: auto;}*/
+
+/*div, iframe {
 /*    width: 75%;*/
 /*    height: auto;*/
-    margin: 0 auto;
+/*    margin: 0 auto;
     background-color: #777;
 }
 
 iframe {
     display: block;
     border-style:none;
-}
+}*/

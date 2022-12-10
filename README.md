@@ -1,5 +1,5 @@
-# plungepool-dot-dev
-## Personal website and memex
+# wiki-dot-plungepool-dot-dev
+## Personal memex
 
 **Work in progress.**
 
