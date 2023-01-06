@@ -7,28 +7,17 @@ if not os.path.exists('site'):
     os.mkdir('site')
 
 for f in glob.iglob('src/*.md'):
+    with open("src/templates/page_template.htm", 'r') as page_template:
+        page = page_template.read()
+
     with open(f, 'r') as file:
         raw = file.read()
-        html = markdown.markdown(raw, extensions=['markdown.extensions.tables'])
+        content = markdown.markdown(raw, extensions=['markdown.extensions.tables'])
+
+    page = page.replace('<!--CONTENT-->', content)
 
     file_name = os.path.basename(f)
     destination = os.path.join("site", os.path.splitext(file_name)[0] + ".html")
 
     with open(destination, 'w') as file:
-        file.write(r'''<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>''')
-        file.write(file_name.removesuffix('.md'))
-        file.write(r'''</title>
-    <link rel="stylesheet" href="../links/style.css">
-    <link rel="icon" href="./favicon.ico" type="image/x-icon">
-  </head>
-  <body>
-''')
-        file.write(html)
-        file.write(r'''
-</body>
-</html>''')
+        file.write(page)
