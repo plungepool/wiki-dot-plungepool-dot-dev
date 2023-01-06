@@ -26,4 +26,4 @@
 
 **Bit extraction** - extract a range of bits by right shifting (>>) the identified portion to until it touches the 0th bit (least significant bit), then mask the value to extract only 6 bits and save to another variable. ex: output = (uint8_t) ((data >> 9) & 0x003F); where data is 16 bits being typecasted to 8 bit output
 
-*Related*: [Embedded](embedded.md)
+*Related*: [Embedded](embedded.html)

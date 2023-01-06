@@ -24,4 +24,4 @@ calling *p "**dereferences**" address of data
 
 &[variable]'s data type will be [data type]* by **default**
 
-*Related*: [Cheatsheets for embedded programming in C](embedded-programming-in-c.md), [Do Less](do-less.md)
+*Related*: [Cheatsheets for embedded programming in C](embedded-programming-in-c.html), [Do Less](do-less.html)
