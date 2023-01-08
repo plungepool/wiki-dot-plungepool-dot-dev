@@ -1,18 +1,51 @@
-## General pruning tips
+## General pruning tips (Chinese Elm)
 
 - prune before watering
 - cut back twigs so there's only 3-4 nodes
 - cut only developed wood
-- leave 3-4 leaf pairs when cutting back to develop fine branch structure
+- leave 3-4 leaf pairs when cutting back to develop fine branch structure, 2-3 nodes for especially fine structure
 - side that leaf closest to cut is on is the side the next branch will develop from
 - clip crisscrossing branches
 - cut or wire branches going up, save branches going down, manage branches going to sides
 - only prune a few times per season, let grow wild until enough new branches develop wood and then prune back, even if certain branches seem like you definitely don't want them
 
-## Chinese Elm
+## Chinese Elm [AKA Elmer]
 
-- Repot every two years. (Next repotting: Spring 2024 before growing season)
-- Usually the Chinese elm is overwintered as an indoor bonsai. Due to the high temperatures in the room, a elm bonsai consumes a lot of energy in winter.
-- To get enough energy (sugar) by photosynthesis before winter, we cut bonsai of the Chinese elm only until mid August.
-- After that we let the bonsai tree grow, overwinter it (at about 6-8°C or like a Mediterranean bonsai more cool in a unheated plastic tent) and prune it next February, shortly before the new shoots come out.
+(photo + date)
+
+- Acquired in January 2020 from Kimura Bonsai at their former location in Northridge, CA.
+- Also known as a Lacebark Elm or Drake Elm.
+- Repot every two years. (**Next repotting: Spring 2024 before growing season**)
+- The soil should contain around 75 % of inorganic matter like aggregate rock or other hard material. Some examples are coarse sand, decomposed granite, and crushed lava rock. The remaining 25% should be organic matter made of decomposed plant material like composted bark or leaf mulch. The material shouldn’t be new or partially decomposed, as that would generate heat, thereby damaging the roots. If you can’t find the organic matter easily, you can go for the bark that orchid growers use or a non-water-retaining potting soil. (**Current soil: Akadama mix from Amazon**)
+- They need a lot of light. It would be best to expose them to the morning sunlight as it’s good due to its low intensity. Bear in mind that direct afternoon sunlight in summers can cause burns in the leaves.
+- Usually the Chinese elm is overwintered as an indoor bonsai. Due to the high temperatures in the room, an elm bonsai consumes a lot of energy in winter.
+- To get enough energy (sugar) by photosynthesis before winter, **we cut bonsai of the Chinese elm only until mid August.**
+- After that we let the bonsai tree grow, overwinter it (at about 6-8°C or like a Mediterranean bonsai more cool in a unheated plastic tent) and **prune it next February, shortly before the new shoots come out**.
 - Helpful hint: Don't overwinter a bonsai of the Chinese elm too warm. A very bright and very cool location is optimal. Even light frosts are tolerated by this bonsai tree species.
+
+## Cork Bark Chinese Elm
+
+(photo + date)
+
+- Acquired in January 2023 from Kimura Bonsai (Kashi no Ki-en Garden) in Castaic, CA.
+- Repot every two years. (**First repotting: Spring 2023**)
+- Soil, watering, pruning, and repotting requirements are the same as standard "lacebark" Chinese elm bonsai.
+- Prune back 2-3 nodes for especially fine structure.
+- The cork bark Chinese elm bonsai benefits from receiving **plenty of fertilizer**. You don’t need to use fertilizer when the tree becomes dormant during winter. When fertilizing, use a mix of liquid and solid options to help your tree grow.
+
+## Japanese Beautyberry (**Callicarpa** Japonica)
+
+(photo + date)
+
+- Acquired in January 2023 from Kimura Bonsai (Kashi no Ki-en Garden) in Castaic, CA.
+- Need to do more research on this tree, haven't found much solid information on their care. My first flowering/fruiting bonsai.
+- Prune and re-wire early Spring. (**First repotting: Spring 2023**)
+- Roots thrive in a cool, moist substrate high in organic matter.
+- Beautyberry at maturity is an irregular upright form with graceful arching branches.
+
+### Bonsai wishlist:
+
+- Japanese maple
+- Wisteria
+- Juniper/California Juniper
+- Chili pepper ("[Bonchi](https://www.reddit.com/r/Bonchi/)")
