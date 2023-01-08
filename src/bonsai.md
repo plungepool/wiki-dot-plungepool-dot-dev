@@ -1,3 +1,7 @@
+# Bonsai
+
+(some notes about my experience as an intro)
+
 ## General pruning tips (Chinese Elm)
 
 - prune before watering
