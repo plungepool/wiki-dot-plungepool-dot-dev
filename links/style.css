@@ -1,5 +1,3 @@
-#myFakeElement { color:red ; }
-
 body { 
 	max-width: calc(100% - 200px);
     margin: auto !important;
@@ -11,6 +9,12 @@ body {
 pre { 
 	word-wrap:break-word;
 	white-space: pre-wrap;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    width: auto\9; /* ie8 */
 }
 
 .index {
@@ -25,21 +29,19 @@ pre {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-img {
-  margin: auto;
-  display: block;
+.footer {
+    margin: auto;
+    width: 75px;
 }
 
-/*img { max-width:100%; height: auto;}*/
+.wikilink {
 
-/*div, iframe {
-/*    width: 75%;*/
-/*    height: auto;*/
-/*    margin: 0 auto;
-    background-color: #777;
 }
 
-iframe {
-    display: block;
-    border-style:none;
-}*/
+.wikilink::before {
+    content: "[";
+}
+
+.wikilink::after {
+    content: "]";
+}
