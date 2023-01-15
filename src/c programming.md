@@ -1,3 +1,7 @@
+# The C Programming Language
+
+C wasn't my first programming language, but it was my second and easily my favorite. Managing memory manually isn't strictly necessary for every task, but as someone who  loves [[embedded]] and small, efficient software tools, it just makes the most sense. Computing resources are always finite even if they seem large and in a world where inefficient and power-hungry software has become the norm, most applications could benefit from a healthy distrust of dynamic memory allocation.
+
 ## Pointers In C - A Cheatsheet
 
 **pointers/addresses** are always unsigned data
