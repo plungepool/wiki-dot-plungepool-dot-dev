@@ -1,4 +1,4 @@
-# Embedded Programming in C
+# embedded programming in c.
 
 I love the [[c programming]] language and [[embedded]] systems. As it turns out C has a lot of features that are especially relevant to targeting embedded hardware and these are a few.
 
@@ -29,5 +29,3 @@ I love the [[c programming]] language and [[embedded]] systems. As it turns out 
 **One shortcut to creating mask values**: create mask value of 1 and << left shift by the bit position you are wanting to set. ex: data = data | (1<<4); to set 4th bit. Can also clear by using the same method to shift a 1 to the bit you want to clear and use ~. ex: data & ~(1<<4); to clear 4th bit
 
 **Bit extraction** - extract a range of bits by right shifting (>>) the identified portion to until it touches the 0th bit (least significant bit), then mask the value to extract only 6 bits and save to another variable. ex: output = (uint8_t) ((data >> 9) & 0x003F); where data is 16 bits being typecasted to 8 bit output
-
-*Related*: [Embedded](embedded.html)

@@ -1,8 +1,8 @@
-# Bonsai
+# bonsai.
 
 This is a collection of notes about each type of bonsai tree I own and guides for care collected from various sources. I have always had an appreciation of bonsai and Japanese gardening, but these became a more serious interest sometime in 2019 and I acquired my first tree in early 2020. I remain a beginner, especially not having any outdoor space to utilize for the hobby until 2022, but I'm excited to grow more now without the limitation.
 
-## General pruning and wiring tips
+### general pruning and wiring tips
 
 - prune before watering
 - cut back twigs so there's only 3-4 nodes
@@ -13,7 +13,7 @@ This is a collection of notes about each type of bonsai tree I own and guides fo
 - cut or wire branches going up, save branches going down, manage branches going to sides
 - only prune a few times per season, let grow wild until enough new branches develop wood and then prune back, even if certain branches seem like you definitely don't want them
 
-## Chinese Elm ("Elmer")
+## chinese elm ("elmer")
 
 ![Chinese Elm 2023-01-11](../media/Chinese%20Elm%202023-01-11.png)
 
@@ -29,7 +29,7 @@ This is a collection of notes about each type of bonsai tree I own and guides fo
 - After that we let the bonsai tree grow, overwinter it (at about 6-8°C or like a Mediterranean bonsai more cool in a unheated plastic tent) and **prune it next February, shortly before the new shoots come out**.
 - Helpful hint: Don't overwinter a bonsai of the Chinese elm too warm. A very bright and very cool location is optimal. Even light frosts are tolerated by this bonsai tree species.
 
-## Cork Bark Chinese Elm
+## cork bark chinese elm
 
 ![Corkbark 2023-01-11](../media/Corkbark%202023-01-11.jpg)
 
@@ -41,7 +41,7 @@ This is a collection of notes about each type of bonsai tree I own and guides fo
 - Prune back 2-3 nodes for especially fine structure.
 - The cork bark Chinese elm bonsai benefits from receiving **plenty of fertilizer**. You don’t need to use fertilizer when the tree becomes dormant during winter. When fertilizing, use a mix of liquid and solid options to help your tree grow.
 
-## Japanese Beautyberry (**Callicarpa** Japonica)
+## japanese beautyberry (**callicarpa** japonica)
 
 ![Beautyberry 2023-01-11](../media/Beautyberry%202023-01-11.jpg)
 
@@ -53,7 +53,7 @@ This is a collection of notes about each type of bonsai tree I own and guides fo
 - Roots thrive in a cool, moist substrate high in organic matter.
 - Beautyberry at maturity is an irregular upright form with graceful arching branches.
 
-### Bonsai wishlist:
+#### bonsai wishlist:
 
 - Japanese maple
 - Wisteria

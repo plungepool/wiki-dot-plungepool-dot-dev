@@ -1,6 +1,6 @@
-# The C Programming Language
+# the c programming language.
 
-C wasn't my first programming language, but it was my second and easily my favorite. Managing memory manually isn't strictly necessary for every task, but as someone who  loves [[embedded]] and small, efficient software tools, it just makes the most sense. Computing resources are always finite even if they seem large and in a world where inefficient and power-hungry software has become the norm, most applications could benefit from a healthy distrust of dynamic memory allocation.
+C wasn't my first programming language, but it was my second and easily my favorite. Managing memory manually isn't strictly necessary for every task, but as someone who  loves [[embedded]] and small, efficient software tools that [[do less]], it just makes the most sense. Computing resources are always finite even if they seem large and in a world where inefficient and power-hungry software has become the norm, most applications could benefit from a healthy distrust of dynamic memory allocation.
 
 ## Pointers In C - A Cheatsheet
 
@@ -27,5 +27,3 @@ calling *p "**dereferences**" address of data
 **Conventional** to write pointers for variable locations with p[variablename]
 
 &[variable]'s data type will be [data type]* by **default**
-
-*Related*: [Cheatsheets for embedded programming in C](embedded-programming-in-c.html), [Do Less](do-less.html)
