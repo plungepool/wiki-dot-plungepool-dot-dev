@@ -15,7 +15,7 @@ for f in glob.iglob('src/*.md'):
 
     with open(f, 'r') as file:
         raw = file.read()
-        content = markdown.markdown(raw, extensions=[WikiLinkExtension(base_url='/site/', end_url='.html')])
+        content = markdown.markdown(raw, extensions=[WikiLinkExtension(base_url='https://wiki.plungepool.dev/site/', end_url='.html')])
 
     page = page.replace('<!--CONTENT-->', content)
 
