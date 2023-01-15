@@ -2,6 +2,7 @@
 import os
 import glob
 import markdown
+from markdown.extensions.wikilinks import WikiLinkExtension
 
 ## Create folder for site
 if not os.path.exists('site'):
@@ -14,7 +15,7 @@ for f in glob.iglob('src/*.md'):
 
     with open(f, 'r') as file:
         raw = file.read()
-        content = markdown.markdown(raw, extensions=['markdown.extensions.tables'])
+        content = markdown.markdown(raw, extensions=[WikiLinkExtension(base_url='/site/', end_url='.html')])
 
     page = page.replace('<!--CONTENT-->', content)
 
