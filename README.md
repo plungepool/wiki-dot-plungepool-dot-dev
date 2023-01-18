@@ -1,8 +1,6 @@
 # wiki-dot-plungepool-dot-dev
 ## Personal memex
 
-**Work in progress.**
-
 Static site generation inspired by [Oscean](https://github.com/XXIIVV/oscean) and [Mizi](https://github.com/AbstractXan/Mizi).
 
 1) Markdown articles go in src
