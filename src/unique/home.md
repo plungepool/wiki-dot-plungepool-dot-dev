@@ -1,3 +1,3 @@
-# welcome to my wiki.
+# welcome to the plungepool wiki.
 
-hey hey hey
+Logging and tracking [my](https://wiki.plungepool.dev/site/about.html) personal projects and experiences with [[music]], [[technology]],  other [[interests]], [[thoughts]] and personal philosophies.
