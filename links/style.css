@@ -4,8 +4,6 @@ body {
     min-width: 450px;
     margin: auto !important;
     border: 35px none #00FF00;
-/*    border: 35px dashed #00FF00;*/
-  
 }
 
 pre { 
@@ -17,6 +15,7 @@ img {
     max-width: 100%;
     height: auto;
     width: auto\9; /* ie8 */
+    /* TODO: Pages with images are off-center, why?*/
 }
 
 .index {
