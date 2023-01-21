@@ -28,7 +28,7 @@ for f in glob.iglob('src/*.md'):
 ## Generate index page
 i_file_name = "index"
 i_destination = os.path.join("site", os.path.splitext(i_file_name)[0] + ".html")
-i_index_content = "<h2>Site Index</h2><br>"
+i_index_content = "<h1>site index.</h1><br>"
 
 with open("src/templates/page_template.htm", 'r') as page_template:
         i_page = page_template.read()

@@ -1,5 +1,7 @@
 body { 
-	max-width: calc(100% - 200px);
+	width: calc(100% - 200px);
+    max-width: 850px;
+    min-width: 450px;
     margin: auto !important;
     border: 35px none #00FF00;
 /*    border: 35px dashed #00FF00;*/
