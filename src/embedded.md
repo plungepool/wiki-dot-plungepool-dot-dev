@@ -10,4 +10,4 @@ My entry into the world of programming [started with Arduino](https://plungepool
 
 ![memory-map-land](../media/memory-map-land.jpg)
 
-*(Source: Elicia White)*
+*Source: Elicia White*
