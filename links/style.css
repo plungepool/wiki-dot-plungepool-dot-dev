@@ -40,9 +40,9 @@ img {
 }
 
 .wikilink::before {
-    content: "[";
+    content: "[[";
 }
 
 .wikilink::after {
-    content: "]";
+    content: "]]";
 }

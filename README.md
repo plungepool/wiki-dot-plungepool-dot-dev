@@ -1,5 +1,6 @@
 # wiki-dot-plungepool-dot-dev
 ## Personal memex
+### [Check out the live version here](https://wiki.plungepool.dev/)
 
 Static site generation inspired by [Oscean](https://github.com/XXIIVV/oscean) and [Mizi](https://github.com/AbstractXan/Mizi).
 
