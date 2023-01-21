@@ -25,13 +25,29 @@ for f in glob.iglob('src/*.md'):
     with open(destination, 'w') as file:
         file.write(page)
 
+## Generate home page
+with open("src/templates/home_template.htm", 'r') as home_template:
+    h_page = home_template.read()
+
+with open("src/unique/home.md", 'r') as h_file:
+    h_raw = h_file.read()
+    h_content = markdown.markdown(h_raw, extensions=[WikiLinkExtension(base_url='https://wiki.plungepool.dev/site/', end_url='.html')])
+
+h_page = h_page.replace('<!--CONTENT-->', h_content)
+
+h_file_name = os.path.basename("src/unique/home.md")
+h_destination = os.path.join("", os.path.splitext(h_file_name)[0] + ".html")
+
+with open(h_destination, 'w') as h_file:
+    h_file.write(h_page)
+
 ## Generate index page
 i_file_name = "index"
 i_destination = os.path.join("site", os.path.splitext(i_file_name)[0] + ".html")
 i_index_content = "<h1>site index.</h1><br>"
 
 with open("src/templates/page_template.htm", 'r') as page_template:
-        i_page = page_template.read()
+    i_page = page_template.read()
 
 for p in os.listdir('site'):
     name = p.removesuffix('.html')
@@ -39,7 +55,6 @@ for p in os.listdir('site'):
     i_index_content += link
     print(p)
 
-## apply generated html page to template
 i_page = i_page.replace('<!--CONTENT-->', i_index_content)
 with open(i_destination, 'w') as file:
-        file.write(i_page)
+    file.write(i_page)
