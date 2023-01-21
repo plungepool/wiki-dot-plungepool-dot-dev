@@ -2,4 +2,7 @@
 
 ### Logging and tracking [my](https://wiki.plungepool.dev/site/about.html) personal projects and experiences with [[music]], [[technology]],  other [[interests]], [[thoughts]] and personal philosophies since Jan 2023.
 
-Featured articles: [[bonsai]]
+#### Featured articles: 
+
+- [[music_tools]] - (WIP) A catalog of my favorite musical implements.
+- [[bonsai]] - Notes and logs about my various bonsai trees and general bonsai care.
