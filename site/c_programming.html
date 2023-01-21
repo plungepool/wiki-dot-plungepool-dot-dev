@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <link rel="stylesheet" href="../links/style.css">
+    <link rel="icon" href="./favicon.ico" type="image/x-icon">
+  </head>
+  <body>
+    <div class="index">
+    <a href="../home.html"><img src="../media/plungepoollogo-1024x1024.png" width="200"></a>
+    <p>
+      <i>navigate:</i><br>
+      <a href="music.html">music</a> • 
+      <a href="technology.html">technology</a> • 
+      <a href="interests.html">interests</a> • 
+      <a href="thoughts.html">thoughts</a>
+      <br>
+      <a href="../home.html">home</a> • 
+      <a href="about.html">about</a> • 
+      <a href="index.html">index</a> • 
+      <a href="https://plungepool.dev/memex/index.html">corkboard</a>
+      <br>
+    </p>
+    </div>
+    <div class="content">
+      <h1>the c programming language.</h1>
+<p>C wasn't my first programming language, but it was my second and easily my favorite. Managing memory manually isn't strictly necessary for every task, but as someone who  loves <a class="wikilink" href="https://wiki.plungepool.dev/site/embedded.html">embedded</a> and small, efficient software tools that <a class="wikilink" href="https://wiki.plungepool.dev/site/do_less.html">do less</a>, it just makes the most sense. Computing resources are always finite even if they seem large and in a world where inefficient and power-hungry software has become the norm, most applications could benefit from a healthy distrust of dynamic memory allocation.</p>
+<h2>Pointers In C - A Cheatsheet</h2>
+<p><strong>pointers/addresses</strong> are always unsigned data</p>
+<p>&amp; = gets the address of a data/var ("<strong>pass by reference</strong>")</p>
+<p>* = gets the data/var located at address (<strong>dereference</strong>)</p>
+<p>int <em>p = &n; </em><em>stores the address</em>* of n in variable p</p>
+<p>calling <em>p "</em><em>dereferences</em>*" address of data</p>
+<p>-&gt; is <strong>used in place of dot notation</strong> to access the members of the structure or the unions using pointers</p>
+<p><strong>Address of an array in C</strong> is actually the address of the first byte of the array, which is fine because data in an array is stored consecutively</p>
+<p><strong>Assigning a &amp;[variable] to pointer variable</strong> needs to be typecast as such. ex. char *pAddress = (char*)&data;</p>
+<p><strong>Declaring a pointer variable</strong> needs a * after the data type declaration. ex. char<em> address1 = (char</em>) 0x0007FFF8E3C3824; needs to be typecasted to fit into char data type. The compiler will always reserve same # of bytes regardless of the data type but the data type instead determines the behavior of operations(read, write, increment, decrement, etc) carried out on the pointer variable and how many bytes of information the result will yield. (So seems like generally you want to choose a pointer type that uses the same size as the data that it is pointing to)</p>
+<p><strong>What data is read from a pointer</strong> depends on data type used, for ex. char data = *address1; will fetch only 1 byte because char is being used</p>
+<p><strong>Conventional</strong> to write pointers for variable locations with p[variablename]</p>
+<p>&amp;[variable]'s data type will be [data type]<em> by </em><em>default</em>*</p>
+    </div>
+  </body>
+  <footer>
+    <div class="footer">
+      <a href="https://webring.xxiivv.com/#your-id-here" target="_blank" rel="noopener">
+      <img src="https://webring.xxiivv.com/icon.black.svg" alt="XXIIVV webring" width="75" height="75"/>
+      </a>
+    </div>
+  </footer>
+</html>
