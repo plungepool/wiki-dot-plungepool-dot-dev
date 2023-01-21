@@ -8,6 +8,11 @@ from markdown.extensions.wikilinks import WikiLinkExtension
 if not os.path.exists('site'):
     os.mkdir('site')
 
+## Empty contents of HTML folder
+files = glob.glob('site/*')
+for f in files:
+    os.remove(f)
+
 ## Generate content pages from markdown
 for f in glob.iglob('src/*.md'):
     with open("src/templates/page_template.htm", 'r') as page_template:
