@@ -52,7 +52,7 @@ however,
 
 the "Tarzan Attack", is also playable. (Use bishop protected by queen to force a trade of the fianchetto black bishop)
 
-**four pawns attack.**
+### four pawns attack.
 
 The Four Pawns Attack in the King's Indian Defence is a chess opening that begins with the moves:
 
