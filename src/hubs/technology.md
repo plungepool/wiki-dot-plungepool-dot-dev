@@ -10,8 +10,8 @@ My notes on technology as a hobbyist hacker recently turned professional softwar
 
 [[audio_programming]] - My journey into digital signal processing and building audio applications.
 
-[[c_programming]] - My cheatsheet for my favorite programming language.
+[[c_programming]] - My favorite programming language and cheatsheet for using pointers.
 
 [[embedded]] - Notes on my passion for embedded systems.
 
-[[embedded_programming_in_c]] - My cheatsheet for embedded programming in C.
+[[embedded_programming_in_c]] - My cheatsheets for embedded programming in C.

@@ -6,13 +6,11 @@ My name is Rob Duffy and this is my wiki and personal memex. I'm a musician and 
 
 *Photo: July 2018*
 
-## links.
+## external links.
 
-[tech homepage](https://plungepool.dev/)
+[tech portfolio](https://plungepool.dev/)
 
-[audio homepage](https://www.cyclopssound.com/)
-
-[new music project](https://twitter.com/fr33ware) *(more soon)*
+[audio business](https://www.cyclopssound.com/)
 
 ## contact.
 
