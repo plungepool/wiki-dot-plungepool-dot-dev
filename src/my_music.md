@@ -8,7 +8,7 @@
 
 [[tea_leaf]] - My attempt at dance music from 2018 to 2020. Lots unreleased from this but will probably stay that way.
 
-[[cyclops_rock]] - AKA Cyclops Sounds. My first and longest-running music project. 2010 through 2017.
+[[cyclops_rock]] - AKA Cyclops Sounds. My first and longest-running music project, 2010 through 2017.
 
 ## recent production credits.
 
