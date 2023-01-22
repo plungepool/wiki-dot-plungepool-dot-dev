@@ -6,6 +6,6 @@ It's just my opinion, man.
 
 [[do_less]]
 
-## recently updated:
+## recently updated others:
 
-[[do_less]]
+[[stoicism]]

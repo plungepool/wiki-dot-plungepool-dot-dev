@@ -30,6 +30,23 @@ for f in glob.iglob('src/*.md'):
     with open(destination, 'w') as file:
         file.write(page)
 
+## Generate hub pages from markdown
+for f in glob.iglob('src/hubs/*.md'):
+    with open("src/templates/page_template.htm", 'r') as page_template:
+        page = page_template.read()
+
+    with open(f, 'r') as file:
+        raw = file.read()
+        content = markdown.markdown(raw, extensions=[WikiLinkExtension(base_url='https://wiki.plungepool.dev/site/', end_url='.html')])
+
+    file_name = os.path.basename(f)
+    destination = os.path.join("site", os.path.splitext(file_name)[0] + ".html")
+
+    page = page.replace('<!--TITLE-->', file_name.removesuffix('.md')  + " hub - plungepool wiki.")
+    page = page.replace('<!--CONTENT-->', content)
+    with open(destination, 'w') as file:
+        file.write(page)
+
 ## Generate home page
 with open("src/templates/home_template.htm", 'r') as home_template:
     h_page = home_template.read()

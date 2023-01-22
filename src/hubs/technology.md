@@ -8,6 +8,6 @@ Hello, world!
 
 [[embedded]]
 
-## recently updated:
+## recently updated others:
 
 [[embedded_programming_in_c]]

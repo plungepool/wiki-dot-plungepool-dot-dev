@@ -4,8 +4,10 @@ A collection of other interests that do not fall neatly under the umbrella of ei
 
 ## start here:
 
-[[bonsai]]
+[[bonsai]] - Notes and logs about my various bonsai trees and general bonsai care.
 
-## recently updated:
+## recently updated others:
 
-[[bonsai]]
+[[chess]]
+
+[[biking]]
