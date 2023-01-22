@@ -2,7 +2,7 @@
 
 I used to think chess was super boring. I always saw chess as suffering from "analysis paralysis," which to me is the biggest board game sin there is. The last thing I want to do is stare at a board state for 5 or 10 or 20+ minutes at a time until I am able to make a decision, then wait as my opponent does the same. 
 
-Then I got ambushed with a chess clock. I was at a small gathering in March 2022 when my friend whipped out a chess set and set the clock at 5 minutes a piece. That's when I realized that chess can be an amazingly fun and exciting game again when you put a time limit on it, and by playing games that only last 10 or 20 minutes total, you can play more and learn from experience more rapidly. Now I play chess virtually every day and it has become one of my most favorite recent hobbies.
+Then I got ambushed with a chess clock. I was at a small gathering in March 2022 when my friend whipped out a chess set and set the clock at 5 minutes apiece. That's when I realized that chess can be an amazingly fun and exciting game again when you put a time limit on it, and by playing games that only last 10 or 20 minutes total, you can play more and learn from experience more rapidly. Now I play chess virtually every day and it has become one of my most favorite recent hobbies.
 
 ## openings notes.
 
