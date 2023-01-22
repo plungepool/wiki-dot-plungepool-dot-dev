@@ -34,13 +34,13 @@ for f in glob.iglob('src/*.md'):
 with open("src/templates/home_template.htm", 'r') as home_template:
     h_page = home_template.read()
 
-with open("src/unique/home.md", 'r') as h_file:
+with open("src/root/home.md", 'r') as h_file:
     h_raw = h_file.read()
     h_content = markdown.markdown(h_raw, extensions=[WikiLinkExtension(base_url='https://wiki.plungepool.dev/site/', end_url='.html')])
 
 h_page = h_page.replace('<!--CONTENT-->', h_content)
 
-h_file_name = os.path.basename("src/unique/home.md")
+h_file_name = os.path.basename("src/root/home.md")
 h_destination = os.path.join("", os.path.splitext(h_file_name)[0] + ".html")
 
 with open(h_destination, 'w') as h_file:
