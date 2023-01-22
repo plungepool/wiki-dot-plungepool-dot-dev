@@ -1,7 +1,7 @@
 body { 
 	width: calc(100% - 200px);
     max-width: 850px;
-    min-width: 450px;
+    min-width: 360px;
     margin: auto !important;
     border: 35px none #00FF00;
 }
