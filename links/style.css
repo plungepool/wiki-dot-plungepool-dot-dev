@@ -39,6 +39,7 @@ img {
     height: auto;
     width: auto\9; /* ie8 */
     /* FIXME: Pages with images are off-center, why?*/
+    /*Conflict wth img tag and .index?*/
 }
 
 .index {
