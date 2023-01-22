@@ -4,5 +4,5 @@
 
 #### Featured articles: 
 
-- [[music_tools]] - (WIP) A catalog of my favorite musical implements.
+- [[music_tools]] - A catalog of my favorite musical implements.
 - [[bonsai]] - Notes and logs about my various bonsai trees and general bonsai care.
