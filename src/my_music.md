@@ -4,11 +4,11 @@
 
 [[freeware]] - A new and upcoming project combining metal, electronics, and societal collapse. 2022 to present.
 
-[[karas_walk_home]] - Emo and indie rock band since 2014, now on hiatus as of 2022. 
+[kara's walk home](https://karaswalkhome.mortgage/music) - Emo and indie rock band since 2014, now on hiatus as of 2022. 
 
-[[tea_leaf]] - My attempt at dance music from 2018 to 2020. Lots unreleased from this but will probably stay that way.
+[tea leaf](https://tea-leaf.bandcamp.com/music) - My attempt at political dance music from 2018 to 2020. Lots unreleased from this but will probably stay that way.
 
-[[cyclops_rock]] - AKA Cyclops Sounds. My first and longest-running music project, 2010 through 2017.
+[cyclops rock](https://cyclopssounds.bandcamp.com/music) - AKA Cyclops Sounds. My first and longest-running music project, 2010 through 2017.
 
 ## recent production credits.
 
