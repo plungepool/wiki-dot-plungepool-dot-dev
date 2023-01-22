@@ -12,11 +12,11 @@ A stable opening for white that sets up a deadly attack if black chooses to cast
 
 ![the london system](../media/the%20london%20system.png)
 
-1) Pawn to d4 and bishop to f4.
-2) Push pawns to defend d4 and bf4.
-3) Develop knights and remaining bishop.
-4) Advance knight to attack f7.
-5) Push h pawn to set up kingside attack.
+1. Pawn to d4 and bishop to f4.
+2. Push pawns to defend d4 and bf4.
+3. Develop knights and remaining bishop.
+4. Advance knight to attack f7.
+5. Push h pawn to set up kingside attack.
 
 ### the caro-kann defence.
 
