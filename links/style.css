@@ -11,11 +11,34 @@ pre {
 	white-space: pre-wrap;
 }
 
+/* unvisited link */
+a:link {
+  color: blue;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+/* visited link */
+a:visited {
+  color: blue;
+  text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: hotpink;
+}
+
 img {
     max-width: 100%;
     height: auto;
     width: auto\9; /* ie8 */
-    /* TODO: Pages with images are off-center, why?*/
+    /* FIXME: Pages with images are off-center, why?*/
 }
 
 .index {
