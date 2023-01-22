@@ -74,7 +74,7 @@ i_index_content = "<h1>site index.</h1><br>"
 with open("src/templates/page_template.htm", 'r') as page_template:
     i_page = page_template.read()
 
-for p in os.listdir('site'):
+for p in sorted(os.listdir('site')):
     name = p.removesuffix('.html')
     link = "<a href=\"" + p + "\">" + name + "</a><br>"
     i_index_content += link
