@@ -8,6 +8,6 @@ A collection of other interests that do not fall neatly under the umbrella of ei
 
 ## recently updated others:
 
-[[chess]]
+[[chess]] - Reference notes I've created as a beginner.
 
-[[biking]]
+[[biking]] - Notes on my choice of bike and the benefits of biking.
