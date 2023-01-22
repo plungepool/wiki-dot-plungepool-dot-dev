@@ -22,11 +22,11 @@ for f in glob.iglob('src/*.md'):
         raw = file.read()
         content = markdown.markdown(raw, extensions=[WikiLinkExtension(base_url='https://wiki.plungepool.dev/site/', end_url='.html')])
 
-    page = page.replace('<!--CONTENT-->', content)
-
     file_name = os.path.basename(f)
     destination = os.path.join("site", os.path.splitext(file_name)[0] + ".html")
 
+    page = page.replace('<!--TITLE-->', file_name.removesuffix('.md')  + " - plungepool wiki.")
+    page = page.replace('<!--CONTENT-->', content)
     with open(destination, 'w') as file:
         file.write(page)
 
@@ -38,11 +38,11 @@ with open("src/root/home.md", 'r') as h_file:
     h_raw = h_file.read()
     h_content = markdown.markdown(h_raw, extensions=[WikiLinkExtension(base_url='https://wiki.plungepool.dev/site/', end_url='.html')])
 
-h_page = h_page.replace('<!--CONTENT-->', h_content)
-
 h_file_name = os.path.basename("src/root/home.md")
 h_destination = os.path.join("", os.path.splitext(h_file_name)[0] + ".html")
 
+h_page = h_page.replace('<!--TITLE-->', "home - plungepool wiki.")
+h_page = h_page.replace('<!--CONTENT-->', h_content)
 with open(h_destination, 'w') as h_file:
     h_file.write(h_page)
 
@@ -60,6 +60,7 @@ for p in os.listdir('site'):
     i_index_content += link
     print(p)
 
+i_page = i_page.replace('<!--TITLE-->', "index - plungepool wiki.")
 i_page = i_page.replace('<!--CONTENT-->', i_index_content)
 with open(i_destination, 'w') as file:
     file.write(i_page)
