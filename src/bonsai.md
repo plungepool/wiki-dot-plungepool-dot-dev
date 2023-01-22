@@ -2,7 +2,7 @@
 
 This is a collection of notes about each type of bonsai tree I own and guides for care collected from various sources. I have always had an appreciation of bonsai and Japanese gardening, but these became a more serious interest sometime in 2019 and I acquired my first tree in early 2020. I remain a beginner, especially not having any outdoor space to utilize for the hobby until 2022, but I'm excited to grow more now without the limitation.
 
-### general pruning and wiring tips
+### general pruning and wiring tips.
 
 - prune before watering
 - cut back twigs so there's only 3-4 nodes
@@ -13,7 +13,14 @@ This is a collection of notes about each type of bonsai tree I own and guides fo
 - cut or wire branches going up, save branches going down, manage branches going to sides
 - only prune a few times per season, let grow wild until enough new branches develop wood and then prune back, even if certain branches seem like you definitely don't want them
 
-## chinese elm ("elmer")
+### general fertilizer tips.
+
+- **Spring**: high Nitrogen content fertilizer like **NPK 10:6:6**
+- **Summer**: a more balanced fertilizer like **NPK 6:6:6**
+- **Autumn**: a low Nitrogen fertilizer like **NPK 3:6:6**
+- "More and more, experts are favoring using a balanced fertilizer throughout the growing season, and slowly decreasing the amount applied towards the end of the growing season."
+
+## chinese elm ("elmer").
 
 ![Chinese Elm 2023-01-11](../media/Chinese%20Elm%202023-01-11.png)
 
@@ -29,7 +36,7 @@ This is a collection of notes about each type of bonsai tree I own and guides fo
 - After that we let the bonsai tree grow, overwinter it (at about 6-8°C or like a Mediterranean bonsai more cool in a unheated plastic tent) and **prune it next February, shortly before the new shoots come out**.
 - Helpful hint: Don't overwinter a bonsai of the Chinese elm too warm. A very bright and very cool location is optimal. Even light frosts are tolerated by this bonsai tree species.
 
-## cork bark chinese elm
+## cork bark chinese elm.
 
 ![Corkbark 2023-01-11](../media/Corkbark%202023-01-11.jpg)
 
@@ -41,7 +48,7 @@ This is a collection of notes about each type of bonsai tree I own and guides fo
 - Prune back 2-3 nodes for especially fine structure.
 - The cork bark Chinese elm bonsai benefits from receiving **plenty of fertilizer**. You don’t need to use fertilizer when the tree becomes dormant during winter. When fertilizing, use a mix of liquid and solid options to help your tree grow.
 
-## japanese beautyberry (**callicarpa** japonica)
+## japanese beautyberry (**callicarpa** japonica).
 
 ![Beautyberry 2023-01-11](../media/Beautyberry%202023-01-11.jpg)
 
