@@ -12,4 +12,8 @@ My name is Rob Duffy and this is my wiki and personal memex. I'm a musician and 
 
 [audio homepage](https://www.cyclopssound.com/)
 
-[new music project](https://twitter.com/fr33ware)
+[new music project](https://twitter.com/fr33ware) *(more soon)*
+
+## contact.
+
+*email*: [rob@plungepool.dev](mailto:rob@plungepool.dev)
