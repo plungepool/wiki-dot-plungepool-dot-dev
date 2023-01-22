@@ -29,6 +29,7 @@ for f in glob.iglob('src/*.md'):
     page = page.replace('<!--CONTENT-->', content)
     with open(destination, 'w') as file:
         file.write(page)
+    # print(file_name) #DEBUG
 
 ## Generate hub pages from markdown
 for f in glob.iglob('src/hubs/*.md'):
@@ -46,6 +47,7 @@ for f in glob.iglob('src/hubs/*.md'):
     page = page.replace('<!--CONTENT-->', content)
     with open(destination, 'w') as file:
         file.write(page)
+    # print(file_name) #DEBUG
 
 ## Generate home page
 with open("src/templates/home_template.htm", 'r') as home_template:
@@ -62,6 +64,7 @@ h_page = h_page.replace('<!--TITLE-->', "home - plungepool wiki.")
 h_page = h_page.replace('<!--CONTENT-->', h_content)
 with open(h_destination, 'w') as h_file:
     h_file.write(h_page)
+# print(h_file_name) #DEBUG
 
 ## Generate index page
 i_file_name = "index"
