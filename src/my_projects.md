@@ -10,6 +10,6 @@
 
 [[ceevolt]] - Prototype bluetooth wireless MIDI to eurorack CV converter.
 
-[[nitevipr_mach2]] - Prototype drum machine using a similar joystick-based control scheme to the [[midichamp_ds3d]].
+[[nitevipr_mach2]] - Prototype drum machine with joystick-based control scheme.
 
 [[cnsolidatr]] - Small python app for consolodating files from multiple folders.
