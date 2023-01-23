@@ -4,7 +4,7 @@ My entry into the world of programming [started with Arduino](https://plungepool
 
 [[embedded_programming_in_c]] - My cheatsheet for some of the most useful functions of the C language as they pertain to programming for embedded systems.
 
-[Ceevolt](https://plungepool.dev/ceevolt/) - Simple wireless midi to eurorack CV converter project using STM32 dev board.
+[[ceevolt]] - Simple wireless midi to eurorack CV converter project using STM32 dev board.
 
 [Fastbit Academy](https://fastbitlab.com/) - Most comprehensive and approachable series of lessons on embedded systems topics that I have found. They cost money but usually go down to under $15 each if you wait for a Udemy sale. I've read several books on embedded aimed at beginners and intermediates as well but none of them provide the foundational knowledge needed to really be able to follow them like this series does.
 
