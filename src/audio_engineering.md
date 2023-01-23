@@ -1,6 +1,6 @@
 # audio engineering.
 
-Miscellanous advice I often find myself giving, compiled at last.
+Miscellanous advice, compiled at last.
 
 ## mixing.
 
