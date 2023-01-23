@@ -1,6 +1,6 @@
 # thoughts.
 
-Strong opinions and philosopgies collected and developed through my lived experience.
+Strong opinions and philosophies collected and developed through lived experience.
 
 ## start here:
 
