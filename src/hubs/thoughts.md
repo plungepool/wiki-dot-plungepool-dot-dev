@@ -8,8 +8,6 @@ Strong opinions and philosopgies collected and developed through my lived experi
 
 ## recently updated others:
 
-[[stoicism]] - Why I think stoic principles are the key to happiness.
-
 [[intermediate_learning]] - Why you can't actually learn everything on the internet.
 
 [[it_depends]] - How to interpret music production and other types of creative advice you find on the internet.
