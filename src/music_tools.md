@@ -32,7 +32,7 @@ An artifact of a long-gone era in my life that I still keep around hooked up via
 
 ## Norns
 
-Not gonna lie, this is one of the tools that I use that objectively [does too much](https://wiki.plungepool.dev/site/do_less.html). Still, it is still on my list as something it would be fun to write a little app for one day as I increase my understanding with [[audio_programming]] and dsp. I mostly use mine as a MIDI host, meaning I don't need a laptop on my desk with a DAW open in order to hook all my USB midi gear together. It's a nice platform with a cool community though, just not really for me as a main tool.
+Not gonna lie, this is one of the tools that I use that objectively [does too much](https://wiki.plungepool.dev/site/do_less.html). Still, it is still on my list as something it would be fun to write a little app for one day as I increase my understanding with audio programming and dsp. I mostly use mine as a MIDI host, meaning I don't need a laptop on my desk with a DAW open in order to hook all my USB midi gear together. It's a nice platform with a cool community though, just not really for me as a main tool.
 
 ## Other Synths
 

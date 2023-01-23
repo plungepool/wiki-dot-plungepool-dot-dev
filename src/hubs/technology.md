@@ -8,8 +8,6 @@ My notes on technology as a hobbyist hacker recently turned professional softwar
 
 ## recently updated others:
 
-[[audio_programming]] - My journey into digital signal processing and building audio applications.
-
 [[c_programming]] - My favorite programming language and cheatsheet for using pointers.
 
 [[embedded]] - Notes on my passion for embedded systems.
