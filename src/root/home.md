@@ -4,5 +4,7 @@
 
 #### Featured articles: 
 
+- [[my_projects]] - Favorite tools I've built and what I learned from building them.
+- [[my_music]] - Selected works and favorite production credits.
 - [[music_tools]] - A catalog of my favorite musical implements.
 - [[bonsai]] - Notes and logs about my various bonsai trees and general bonsai care.
