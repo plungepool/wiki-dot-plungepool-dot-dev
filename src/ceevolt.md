@@ -2,7 +2,7 @@
 
 ## Prototype BLE MIDI to Eurorack CV Converter
 
-*CeeVolt is your personal, portable bridge between digital flexibility and analog richness. Pair with your iOS device and unlock a world of midi controllers and sequencers, now available for use with your Eurorack modular system. Ultra-low latency with the latest generation of the Bluetooth Low Energy spec. **No longer in active development**.*
+*CeeVolt is your personal, portable bridge between digital flexibility and analog richness. Pair with your iOS device and unlock a world of midi controllers and sequencers, now available for use with your Eurorack modular system. Ultra-low latency with the latest generation of the Bluetooth Low Energy spec. No longer in active development.*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hXPX2txK7E4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

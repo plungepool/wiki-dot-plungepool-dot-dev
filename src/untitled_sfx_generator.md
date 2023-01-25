@@ -2,7 +2,7 @@
 
 ## **High quality sound effect creation for games, applications, and more**
 
-*[untitled sound effects generator] makes creating inspiring and unique sound effects for independent video games, applications, and more fast and easy. Shuffle through procedurally-generated audio effects at the press of a button, rendering virtually unlimited sonic possibilities from a library of over 200+ professionally hand-crafted samples. **Development on hold.***
+*[untitled sound effects generator] makes creating inspiring and unique sound effects for independent video games, applications, and more fast and easy. Shuffle through procedurally-generated audio effects at the press of a button, rendering virtually unlimited sonic possibilities from a library of over 200+ professionally hand-crafted samples. Development on hold.*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/45YiGWcj3KI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
