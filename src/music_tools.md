@@ -28,11 +28,11 @@ I worked full time in the music industry as an audio engineer and (extremely sma
 
 ## Game Boy
 
-An artifact of a long-gone era in my life that I still keep around hooked up via MIDI and occasionally still use. In 2022 I upgraded the screen with a drop-in IPS replacement which is nice. I'm currently on the hunt for an affordable [Konami Hyperboy](https://www.nintendolife.com/news/2019/04/feature_the_konami_hyperboy_is_a_dumb_but_loveable_throwback_to_a_bygone_era) for desktop use that I can mod with audio outputs, or maybe just drill a hole and run an aux cable out of lol.
+Artifact of a bygone chiptune era of my life that I still keep around and occasionally use, flash cart is loaded with [mGB](https://github.com/trash80/mGB) + LSDJ and hooked up to my other gear via teensyboy MIDI interface. In Feb 2022 I upgraded the screen with a drop-in IPS replacement which is quite nice, also way way easier and better than some of the backlight mods we used to do back in the day. I'm currently on the hunt for an affordable [Konami Hyperboy](https://www.nintendolife.com/news/2019/04/feature_the_konami_hyperboy_is_a_dumb_but_loveable_throwback_to_a_bygone_era) for desktop use that I can mod with audio outputs, or maybe just drill a hole and run an aux cable out of lol.
 
 ## Norns
 
-Not gonna lie, this is one of the tools that I use that objectively [does too much](https://wiki.plungepool.dev/site/do_less.html). Still, it is still on my list as something it would be fun to write a little app for one day as I increase my understanding with audio programming and dsp. I mostly use mine as a MIDI host, meaning I don't need a laptop on my desk with a DAW open in order to hook all my USB midi gear together. It's a nice platform with a cool community though, just not really for me as a main tool.
+Not gonna lie, this is one of the tools that I use that objectively [does too much](https://wiki.plungepool.dev/site/do_less.html). Still, it is on my list as something it would be fun to write a little app for one day as I increase my understanding with audio programming and dsp. I mostly use mine as a MIDI host, meaning I don't need a laptop on my desk with a DAW open in order to hook all my USB midi gear together. It's a nice platform with a cool community though, just not really for me as a main tool.
 
 ## Other Synths
 
