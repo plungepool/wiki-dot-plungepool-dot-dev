@@ -4,7 +4,7 @@ Strong opinions and philosophies collected and developed through lived experienc
 
 ## start here:
 
-[[do_less]] - Why I don't like creative tools that do too much.
+[[do less]] - Why I don't like creative tools that do too much.
 
 ## recently updated others:
 

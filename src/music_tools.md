@@ -1,6 +1,6 @@
 # music tools.
 
-A non-comprehensive list of my most-favorite music production tools, many of them embodying the philosophy of [[do_less]] creative tool design and more recently [permacomputing](https://wiki.xxiivv.com/site/permacomputing.html).
+A non-comprehensive list of my most-favorite music production tools, many of them embodying the philosophy of [[do less]] creative tool design and more recently [permacomputing](https://wiki.xxiivv.com/site/permacomputing.html).
 
 ![Studio Aug 18 2022, 6 15 53 PM](../media/Studio%20Aug%2018%202022,%206%2015%2053%20PM.jpg)
 

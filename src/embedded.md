@@ -2,7 +2,7 @@
 
 My entry into the world of programming [started with Arduino](https://wiki.plungepool.dev/site/midichamp_ds3d.html) and quickly snowballed into a love of all things embedded. Embedded systems represents an intersection of various engineering disciplines including software, computer, and electrical engineering. To master embedded is to master how computing works at the lowest level, which has become a constant source of fascination for me despite still having a long, long way to go in my understanding. I don't have a lot here for now as I have had to take a break from a lot of learning on the topic and projects since completing my CS degree, but hope to return one day and fill this section with more.
 
-[[embedded_programming_in_c]] - My cheatsheet for some of the most useful functions of the C language as they pertain to programming for embedded systems.
+[[embedded programming in c]] - My cheatsheet for some of the most useful functions of the C language as they pertain to programming for embedded systems.
 
 [[ceevolt]] - Simple wireless midi to eurorack CV converter project using STM32 dev board.
 
