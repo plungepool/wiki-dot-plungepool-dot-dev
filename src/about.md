@@ -12,6 +12,8 @@ My name is Rob Duffy and this is my wiki and personal memex. I'm a musician and 
 
 [audio business](https://www.cyclopssound.com/)
 
+[github](https://github.com/plungepool)
+
 ## contact.
 
 *email*: [rob@plungepool.dev](mailto:rob@plungepool.dev)
