@@ -8,7 +8,5 @@ Strong opinions and philosophies collected and developed through lived experienc
 
 ## recently updated others:
 
-[[intermediate_learning]] - Why you can't actually learn everything on the internet.
-
-[[it_depends]] - How to interpret music production and other types of creative advice you find on the internet.
+more soon :)
 
