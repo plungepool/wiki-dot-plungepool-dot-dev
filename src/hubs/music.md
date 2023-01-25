@@ -12,5 +12,5 @@ My notes on music as a [musician](https://wiki.plungepool.dev/site/my_music.html
 
 ## recently updated others:
 
-[[it_depends]] - How to interpret music production and other types of creative advice you find on the internet.
+more soon :)
 
