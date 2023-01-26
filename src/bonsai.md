@@ -22,7 +22,7 @@ This is a collection of notes about each type of bonsai tree I own and guides fo
 
 ## chinese elm ("elmer").
 
-![Chinese Elm 2023-01-11](../media/Chinese%20Elm%202023-01-11.png)
+![Chinese Elm 2023-01-11](../media/Chinese%20Elm%202023-01-11.jpg)
 
 *Photo: Jan 2023*
 
