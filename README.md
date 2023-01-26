@@ -10,4 +10,4 @@ Static site generation inspired by [Oscean](https://github.com/XXIIVV/oscean) an
 
 ## Todo:
 - Automate checking for and resizing large images during deployment pipeline.
-- Create and automate generation of RSS feed and changelog.
+- Create and automate generation of RSS feed and changelog/recent changes page.
