@@ -8,5 +8,5 @@ Strong opinions and philosophies collected and developed through lived experienc
 
 ## recently updated others:
 
-more soon :)
+[[stoicism]] - Why I believe stoicism is the key to happiness.
 
