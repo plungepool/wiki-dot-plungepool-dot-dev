@@ -28,10 +28,10 @@ External circumstances are beyond our power to change, and **the only thing you 
 >
 > \- Epictetus, *Enchiridion*
 
-![stoicism chart](../media/stoicism%20chart.png)
-
 ### further reading.
 
 - [Andrew W.K. on Keeping Your Cool](https://www.vice.com/en/article/qkbz3p/andrew-wk-on-keeping-your-cool)
 
 - [Andrew W.K. on Pressure](https://www.vice.com/en/article/ppvgn9/andrew-wk-on-pressure)
+
+![stoicism chart](../media/stoicism%20chart.png)
