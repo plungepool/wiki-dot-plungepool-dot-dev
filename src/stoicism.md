@@ -1,7 +1,5 @@
 # stoicism.
 
-## I believe stoicism is the key to happiness.
-
 Being a stoic isn't about being cold and unfeeling, it's about **separating the things that are within your control from the things that are out of your control**. 
 
 > "There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will."
