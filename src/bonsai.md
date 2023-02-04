@@ -38,25 +38,25 @@ This is a collection of notes about each type of bonsai tree I own and guides fo
 
 ## cork bark chinese elm.
 
-![Corkbark 2023-01-11](../media/Corkbark%202023-01-11.jpg)
+![Corkbark 2023-02-04](../media/Corkbark%202023-02-04.jpg)
 
-*Photo: Jan 2023*
+*Photo: Feb 4 2023*
 
 - Acquired in January 2023 from Kimura Bonsai (Kashi no Ki-en Garden) in Castaic, CA.
-- Repot every two years. (**First repotting: Spring 2023**)
+- Repot every two years. (**First repotting: Feb 4 2023**)
 - Soil, watering, pruning, and repotting requirements are the same as standard "lacebark" Chinese elm bonsai.
 - Prune back 2-3 nodes for especially fine structure.
 - The cork bark Chinese elm bonsai benefits from receiving **plenty of fertilizer**. You don’t need to use fertilizer when the tree becomes dormant during winter. When fertilizing, use a mix of liquid and solid options to help your tree grow.
 
 ## japanese beautyberry (**callicarpa** japonica).
 
-![Beautyberry 2023-01-11](../media/Beautyberry%202023-01-11.jpg)
+![Beautyberry 2023-02-04](../media/Beautyberry%202023-02-04.jpg)
 
-*Photo: Jan 2023*
+*Photo: Feb 4 2023*
 
 - Acquired in January 2023 from Kimura Bonsai (Kashi no Ki-en Garden) in Castaic, CA.
 - Need to do more research on this tree, haven't found much solid information on their care. My first flowering/fruiting bonsai.
-- Prune and re-wire early Spring. (**First repotting: Spring 2023**)
+- Prune and re-wire early Spring. (**First repotting: Feb 4 2023**)
 - Roots thrive in a cool, moist substrate high in organic matter.
 - Beautyberry at maturity is an irregular upright form with graceful arching branches.
 
