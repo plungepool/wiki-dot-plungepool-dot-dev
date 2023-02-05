@@ -66,3 +66,8 @@ This is a collection of notes about each type of bonsai tree I own and guides fo
 - Wisteria
 - Juniper/California Juniper
 - Chili pepper ("[Bonchi](https://www.reddit.com/r/Bonchi/)")
+
+#### watering guide for bonsai-sitters:
+
+- The bonsai in winter will most likely each need watering every 2-3 days if it hasn't rained. If the soil still seems damp on the second day wait till the 3rd. If it gets hot out (75+ degrees) check to see every day if the soil has dried out much faster and water more if needed.
+- The soil (akadama) turns from a dark brown to a light tan when it is starting to dry out so you can check visually. Soak the soil until it's completely wet and water is running out the bottom of the pot.
