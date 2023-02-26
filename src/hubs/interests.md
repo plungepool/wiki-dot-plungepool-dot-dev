@@ -8,7 +8,7 @@ A collection of other interests that do not fall neatly under the umbrella of ei
 
 ## recently updated others:
 
-[[video games]] - A few old games that have become recent favorites.
+[[video games]] - A few older titles that have fostered new obsessions.
 
 [[chess]] - Reference notes I've created as a beginner.
 
