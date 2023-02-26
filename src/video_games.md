@@ -1,6 +1,6 @@
 # video games.
 
-## a few recent picks I loved and have changed me forever.
+## a few old games that have fostered new obsessions.
 
 ### Densha de Go! Final
 
