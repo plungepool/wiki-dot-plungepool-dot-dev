@@ -1,6 +1,6 @@
 # video games.
 
-## a few old games that have fostered new obsessions.
+## a few older titles that have fostered new obsessions.
 
 ### Densha de Go! Final
 
