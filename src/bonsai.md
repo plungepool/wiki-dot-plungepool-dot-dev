@@ -22,9 +22,9 @@ This is a collection of notes about each type of bonsai tree I own and guides fo
 
 ## chinese elm ("elmer").
 
-![Chinese Elm 2023-01-11](../media/Chinese%20Elm%202023-01-11.jpg)
+![Chinese Elm 2023-03-23](../media/Chinese%20Elm%202023-03-23.jpg)
 
-*Photo: Jan 2023*
+*Photo: Mar 2023*
 
 - Acquired in January 2020 from Kimura Bonsai at their former location in Northridge, CA. This was is my first tree which I kept alive indoors under grow lamps in our 1-bedroom apartment until June 2022 when we were able to move to a place with outdoor space. I learned a ton about pest and mold control as I was constantly fighting them off. Now that the tree is outdoor and thriving where it belongs, this has become a lot more manageable. All trees, including bonsai, belong outdoors and will merely survive indoors. I knew this going in but was excited to get into the hobby and I definitely learned a ton keeping it alive.
 - Also known as a Lacebark Elm or Drake Elm.
@@ -38,9 +38,9 @@ This is a collection of notes about each type of bonsai tree I own and guides fo
 
 ## cork bark chinese elm.
 
-![Corkbark 2023-02-04](../media/Corkbark%202023-02-04.jpg)
+![Corkbark 2023-03-23](../media/Corkbark%202023-03-23.jpg)
 
-*Photo: Feb 4 2023*
+*Photo: Mar 2023*
 
 - Acquired in January 2023 from Kimura Bonsai (Kashi no Ki-en Garden) in Castaic, CA.
 - Repot every two years. (**First repotting: Feb 4 2023**)
@@ -50,9 +50,9 @@ This is a collection of notes about each type of bonsai tree I own and guides fo
 
 ## japanese beautyberry (**callicarpa** japonica).
 
-![Beautyberry 2023-02-04](../media/Beautyberry%202023-02-04.jpg)
+![Beautyberry 2023-03-23](../media/Beautyberry%202023-03-23.jpg)
 
-*Photo: Feb 4 2023*
+*Photo: Mar 2023*
 
 - Acquired in January 2023 from Kimura Bonsai (Kashi no Ki-en Garden) in Castaic, CA.
 - Need to do more research on this tree, haven't found much solid information on their care. My first flowering/fruiting bonsai.
