@@ -32,7 +32,7 @@ Artifact of a bygone chiptune era of my life that I still keep around and occasi
 
 ## Norns
 
-Not gonna lie, this is one of the tools that I use that objectively [does too much](https://wiki.plungepool.dev/site/do_less.html). Still, it is on my list as something it would be fun to write a little app for one day as I increase my understanding with audio programming and dsp. I mostly use mine as a MIDI host, meaning I don't need a laptop on my desk with a DAW open in order to hook all my USB midi gear together. It's a nice platform with a cool community though, just not really for me as a main tool.
+Not gonna lie, this is one of the tools that I use that objectively [does too much](https://wiki.plungepool.dev/site/do_less.html). Still, it is on my list as something it would be fun to write a little app for one day as I increase my understanding with audio programming and dsp. I mostly use mine as a MIDI host, meaning I don't need a laptop on my desk with a DAW open in order to hook all my USB midi gear together. It's a nice platform with a cool community though, just not really for me as a main tool. Some people love to fiddle, and platforms like this always give you something new to fiddle with, but I think fiddling is probably my least favorite part of making music if I'm being honest.
 
 ## Other Synths
 
