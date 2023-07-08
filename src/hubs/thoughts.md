@@ -8,5 +8,7 @@ Strong opinions and philosophies collected and developed through lived experienc
 
 ## recently updated others:
 
+[[intermediate_learning]] - Why you can't actually learn everything on the internet.
+
 [[stoicism]] - Why I believe stoicism is the key to happiness.
 
