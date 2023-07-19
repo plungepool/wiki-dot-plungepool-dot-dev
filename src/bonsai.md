@@ -20,6 +20,12 @@ This is a collection of notes about each type of bonsai tree I own and guides fo
 - **Autumn**: a low Nitrogen fertilizer like **NPK 3:6:6**
 - "More and more, experts are favoring using a balanced fertilizer throughout the growing season, and slowly decreasing the amount applied towards the end of the growing season."
 
+### when something goes wrong.
+
+- **Yellowing or crisp leaves** - Too much sunlight.
+- **Leaf scorch** - In winter/spring indicated that soil is too dry in, in summer indicated soil is too wet.
+- **Pests** - Often will hide on the undersides of leaves and cause visual abnormalities. Spray with a natural pesticide and soak leaves from the top and bottom thoroughly.
+
 ## chinese elm ("elmer").
 
 ![Chinese Elm 2023-03-23](../media/Chinese%20Elm%202023-03-23.jpg)
@@ -71,4 +77,4 @@ This is a collection of notes about each type of bonsai tree I own and guides fo
 
 - The bonsai in winter will most likely each need watering every 2-3 days if it hasn't rained. If the soil still seems damp on the second day wait till the 3rd. If it gets hot out (75+ degrees) check to see every day if the soil has dried out faster and water more if needed.
 - The soil (akadama) turns from a dark brown to a light tan when it is starting to dry out so you can check visually. Soak the soil until it's completely wet and water is running out the bottom of the pot.
-- In the summer, expect to water every day. If the soil is still damp about an inch deep, you may consider delaying watering for another day or half day. Water in the evening for best retention.
+- In the summer, expect to water every day. If the soil is still damp about an inch deep, you may consider delaying watering for another day or half day. Water in the evening for best retention. Japanese beautyberry may require less watering than elms so watering all trees without checking soil moisture individually is to be avoided.
