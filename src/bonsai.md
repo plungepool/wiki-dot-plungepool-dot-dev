@@ -63,6 +63,7 @@ This is a collection of notes about each type of bonsai tree I own and guides fo
 - Acquired in January 2023 from Kimura Bonsai (Kashi no Ki-en Garden) in Castaic, CA.
 - Need to do more research on this tree, haven't found much solid information on their care. My first flowering/fruiting bonsai.
 - Prune and re-wire early Spring. (**First repotting: Feb 4 2023**)
+- Seems to prefer shade/partial shade. Developed leaf scorch in full sun during July, moved to shade and began growing berries and flowers again almost immediately.
 - Roots thrive in a cool, moist substrate high in organic matter.
 - Beautyberry at maturity is an irregular upright form with graceful arching branches.
 
