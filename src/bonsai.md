@@ -12,6 +12,7 @@ This is a collection of notes about each type of bonsai tree I own and guides fo
 - clip crisscrossing branches
 - cut or wire branches going up, save branches going down, manage branches going to sides
 - only prune a few times per season, let grow wild until enough new branches develop wood and then prune back, even if certain branches seem like you definitely don't want them
+- leave wiring on for no more than 4 weeks to prevent scarring, leave tree wound cover on for 6 weeks
 
 ### general fertilizer tips.
 
