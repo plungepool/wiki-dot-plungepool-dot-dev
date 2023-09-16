@@ -2,7 +2,7 @@
 
 ## Prototype Arcade Stick Drum Sampler and Sequencer
 
-*From the next evolution in joystick-based rhythm sequencing technology comes the NiteVipr Mach2, a self-contained sample-based drum machine based around the ultra-accessible and fast live pattern performance scheme first pioneered with the [MIDIchamp DrumStik 3D](https://plungepool.dev/midichamp-drumstik3d/). Save and load samples, sequences, and presets from your microSD card, manipulate using on-board effects, and perform and sequence with tactile high-quality arcade parts in ways never previously possible in a drum machine. Development on hold.*
+*From the next evolution in joystick-based rhythm sequencing technology comes the NiteVipr Mach2, a self-contained sample-based drum machine based around the ultra-accessible and fast live pattern performance scheme first pioneered with the [MIDIchamp DrumStik 3D](https://plungepool.dev/midichamp-drumstik3d/). Save and load samples, sequences, and presets from your microSD card, manipulate using on-board effects, and perform and sequence with tactile high-quality arcade parts in ways never previously possible in a drum machine. No longer in active development.*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NlD88jE42OU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
