@@ -31,15 +31,15 @@
 <p><strong>pointers/addresses</strong> are always unsigned data</p>
 <p>&amp; = gets the address of a data/var ("<strong>pass by reference</strong>")</p>
 <p>* = gets the data/var located at address (<strong>dereference</strong>)</p>
-<p>int <em>p = &n; </em><em>stores the address</em>* of n in variable p</p>
-<p>calling <em>p "</em><em>dereferences</em>*" address of data</p>
+<p>int *p = &n; <strong>stores the address</strong> of n in variable p</p>
+<p>calling *p "<strong>dereferences</strong>" address of data</p>
 <p>-&gt; is <strong>used in place of dot notation</strong> to access the members of the structure or the unions using pointers</p>
 <p><strong>Address of an array in C</strong> is actually the address of the first byte of the array, which is fine because data in an array is stored consecutively</p>
 <p><strong>Assigning a &amp;[variable] to pointer variable</strong> needs to be typecast as such. ex. char *pAddress = (char*)&data;</p>
-<p><strong>Declaring a pointer variable</strong> needs a * after the data type declaration. ex. char<em> address1 = (char</em>) 0x0007FFF8E3C3824; needs to be typecasted to fit into char data type. The compiler will always reserve same # of bytes regardless of the data type but the data type instead determines the behavior of operations(read, write, increment, decrement, etc) carried out on the pointer variable and how many bytes of information the result will yield. (So seems like generally you want to choose a pointer type that uses the same size as the data that it is pointing to)</p>
+<p><strong>Declaring a pointer variable</strong> needs a * after the data type declaration. ex. char* address1 = (char*) 0x0007FFF8E3C3824; needs to be typecasted to fit into char data type. The compiler will always reserve same # of bytes regardless of the data type but the data type instead determines the behavior of operations(read, write, increment, decrement, etc) carried out on the pointer variable and how many bytes of information the result will yield. (So seems like generally you want to choose a pointer type that uses the same size as the data that it is pointing to)</p>
 <p><strong>What data is read from a pointer</strong> depends on data type used, for ex. char data = *address1; will fetch only 1 byte because char is being used</p>
 <p><strong>Conventional</strong> to write pointers for variable locations with p[variablename]</p>
-<p>&amp;[variable]'s data type will be [data type]<em> by </em><em>default</em>*</p>
+<p>&amp;[variable]'s data type will be [data type]* by <strong>default</strong></p>
     </div>
   </body>
   <footer>
