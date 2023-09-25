@@ -26,7 +26,7 @@ I didn't own any Playstation consoles as a kid. As an adult I grew an aversion t
 
 I picked up this game finally when I learned that the remastered version would allow me to blitz through basically all combat, turning the game into something more akin to a visual novel or old school advnenture game. I also thought it might be easier for me to stick with and get into if I was streaming it on Discord to my friends. Turns out, FFVII is pretty darn fantastic!!
 
-The prerendered visuals are so striking and beautiful and the story and characters are wonderful. The dialog is often hilarious and the cutscenes often heartbreaking. Every new location feels like a chapter in a book or an episode in a prestige TV series. There's so many wild ideas in here, they really threw the whole kitchen sink in. 
+The prerendered visuals are so striking and beautiful and the story and characters are wonderful. The dialog is often hilarious and the cutscenes often heartbreaking. Every new location feels like a chapter in a book or an episode in TV series. Best of all, it's often delightfully absurd. There's so many wild ideas in here, they really threw the whole kitchen sink in.
 
 Most of my exposure to what this game looked like was really the Midgar section. Towering steampunk structures, neon-lit slums, Cloud on a motorcycle, and our heroes overlooking a cliff once espcaped from Midgar. You know what I'm talking about. What I saw of the 2020 remake of this section of the game also did no favors to this perception.
 
