@@ -2,6 +2,8 @@
 
 ## a few older titles that have fostered new obsessions.
 
+# 2023
+
 ### Densha de Go! Final
 
 ![densha-de-go-final](../media/densha-de-go-final.png)
@@ -15,6 +17,24 @@ This game immediately, and firmly, planted its hooks in me. It's definitely more
 As far as actual gameplay, most of it boils down to waiting patiently for the announcer to complete their spiel and the cabin doors to close, accelerating and braking starting through various speed limit changes and time checks, then attempting to execute the perfect arrival at your next destination, which is what supplies the real thrill. Your aim is to brake gradually, smoothly, and confidently as you roll in to the station for a stop within mere centimeters of the target, without added acceleration or uncomfortable lurching, and of course precisely on time. It feels like the video game equivalent of the classic wooden ball game [Shoot the Moon](https://www.youtube.com/watch?v=kWBIFN_KHoY), where excitement and tension comes from the risk and reward of letting your ball (or train) go as far and as fast as you dare, attempting to pull it back to safety within a split-second, then either being handsomely rewarded with a great score or swiftly punished with absolute disaster.
 
 It's totally addicting and I've played way too much of it within only a few days. I put in an impulse order of the 2021 edition *Densha de Go!! Hashirou Yamanote-sen* for Nintendo Switch, along with a [rather extravagant arcade-style controller](https://www.theverge.com/22628513/densha-de-go-switch-controller-review-hashirou-yamanote-sen), but the PC version still has many many more hours of thrill to provide to me in the meantime.
+
+### Final Fantasy 7
+
+![ff7](../media/ff7.jpeg)
+
+I didn't own any Playstation consoles as a kid. As an adult I grew an aversion to JRPGs due to the tedious combat and grinding. But Final Fantasy iconography from growing up in the 90s has always been strong and appealing to my brain. The "idea" of Final Fantasy until this point had more appeal to me than the actual games. I had always been told "play them for the story" but I was pretty skeptical that the story was even that good to be honest. I tried to get into Final Fantasy with IX a few years ago and enjoyed it but ultimately fell off somewhere after the first disc as I wasn't feeling much propelling me forward, despite the look and sound of the game being extremely charming.
+
+I picked up this game finally when I learned that the remastered version would allow me to blitz through basically all combat, turning the game into something more akin to a visual novel or old school advnenture game. I also thought it might be easier for me to stick with and get into if I was streaming it on Discord to my friends. Turns out, FFVII is pretty darn fantastic!!
+
+The prerendered visuals are so striking and beautiful and the story and characters are wonderful. The dialog is often hilarious and the cutscenes often heartbreaking. Every new location feels like a chapter in a book or an episode in a prestige TV series. There's so many wild ideas in here, they really threw the whole kitchen sink in. 
+
+Most of my exposure to what this game looked like was really the Midgar section. Towering steampunk structures, neon-lit slums, Cloud on a motorcycle, and our heroes overlooking a cliff once espcaped from Midgar. You know what I'm talking about. What I saw of the 2020 remake of this section of the game also did no favors to this perception.
+
+As it would happen that is such a small fraction of what this game has to offer. The ghost hotel and probably Gold Saucer as a whole is my favorite thing and is gonna be such so batshit to see rendered in beautiful lush 3D in the upcoming remakes. Also the music is truly remarkable even though I hear so much that is just a blatant ripoff of something else. As my old music theory professor used to say, great composers steal. I am already imagining myself vibing out to the soundtrack or longplays of this game on YouTube for years to come.
+
+Great game, gripped me, was extremely hard to put down pretty much the whole way through. I feel inspired to try out more similarly famous JRPGs that I have missed, but I don't feel like I'll ever experience one quite like this ever again. Hope to be proven wrong though.
+
+# 2022
 
 ### Shenmue
 
