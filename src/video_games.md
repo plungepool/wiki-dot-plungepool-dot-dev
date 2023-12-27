@@ -55,3 +55,11 @@ I had never touched the Diablo series much until early 2022, but picking up Diab
 It strikes a perfect balance between mindlessness and mindfulness. One moment you might be on metaphorical autopilot, stomping through small enemies and collecting their gold, while the next second unexpectedly caught off-guard and overwhelmed, suddenly fighting for your life on a razor's edge as you chug any health potions from your inventory you can scrounge up. The variety and atmosphere through randomly-generated maps keeps things fresh just enough for near-infinite replayability. It's very rare for me to finish a game and immediately want to start it again, but Diablo II has been one of those games.
 
 I would not fault anyone for not wanting to buy this game given all the very public issues that Blizzard as a company has had around labor and sexual misconduct in recent years, but it is a very special game and a great remake, and one I think is worth the effort to find another way to experience if one was so inclined.
+
+# 2021
+
+### SpaceChem
+
+![spacechem](../media/spacechem.jpg)
+
+I'm writing this a couple years removed from actually playing it, but I was just talking to a friend about a different "pseudocoding" puzzle game and how disappointed I was in it, remembering I picked it up after playing SpaceChem for the first time and adoring it. It's by no means perfect, and Zachtronics has almost definitely improved on the formula since, but for programmers especially I think this one is extremely captivating. SpaceChem for me delivers on the promise of presenting you with a fully complete system and rules, while giving you room to both brute-force and optimize your solutions as much as much or as little as you want. I never ended up finishing it because it got to be complex beyond my ability, and looking at other people's optimal solutions made me feel extremely dumb, but the time I did spend with it I could only describe as magical.
