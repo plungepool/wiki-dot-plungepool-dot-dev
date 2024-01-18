@@ -2,7 +2,7 @@
 
 ## selected music projects.
 
-[[freeware]] - A new and upcoming project combining metal, electronics, and societal collapse. 2022 to present.
+[[freeware_fyi]] - A new and upcoming project combining hardcore, electronics, and societal collapse. 2022 to present.
 
 [kara's walk home](https://karaswalkhome.mortgage/music) - Emo and indie rock band since 2014, now on hiatus as of 2022. 
 
