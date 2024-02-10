@@ -50,7 +50,7 @@ This is a collection of notes about each type of bonsai tree I own and guides fo
 *Photo: Mar 2023*
 
 - Acquired in January 2023 from Kimura Bonsai (Kashi no Ki-en Garden) in Castaic, CA.
-- Repot every two years. (**First repotting: Feb 4 2023**)
+- Repot every two years. (**Next repotting: Spring 2025 before growing season**)
 - Soil, watering, pruning, and repotting requirements are the same as standard "lacebark" Chinese elm bonsai.
 - Prune back 2-3 nodes for especially fine structure.
 - The cork bark Chinese elm bonsai benefits from receiving **plenty of fertilizer**. You don’t need to use fertilizer when the tree becomes dormant during winter. When fertilizing, use a mix of liquid and solid options to help your tree grow.
@@ -63,7 +63,7 @@ This is a collection of notes about each type of bonsai tree I own and guides fo
 
 - Acquired in January 2023 from Kimura Bonsai (Kashi no Ki-en Garden) in Castaic, CA.
 - Need to do more research on this tree, haven't found much solid information on their care. My first flowering/fruiting bonsai.
-- Prune and re-wire early Spring. (**First repotting: Feb 4 2023**)
+- Prune and re-wire early Spring. (**Next repotting: Late Winter 2025 before growing season**)
 - Seems to prefer shade/partial shade. Developed leaf scorch in full sun during July, moved to shade and began growing berries and flowers again almost immediately.
 - Roots thrive in a cool, moist substrate high in organic matter.
 - Beautyberry at maturity is an irregular upright form with graceful arching branches.
