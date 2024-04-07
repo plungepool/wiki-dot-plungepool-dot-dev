@@ -36,7 +36,7 @@ This is a collection of notes about each type of bonsai tree I own and guides fo
 - Acquired in January 2020 from Kimura Bonsai at their former location in Northridge, CA. This was is my first tree which I kept alive indoors under grow lamps in our 1-bedroom apartment until June 2022 when we were able to move to a place with outdoor space. I learned a ton about pest and mold control as I was constantly fighting them off. Now that the tree is outdoor and thriving where it belongs, this has become a lot more manageable. All trees, including bonsai, belong outdoors and will merely survive indoors. I knew this going in but was excited to get into the hobby and I definitely learned a ton keeping it alive.
 - Also known as a Lacebark Elm or Drake Elm.
 - Repot every two years. (**Next repotting: Late Feb 2026 before growing season**)
-- The soil should contain around 75 % of inorganic matter like aggregate rock or other hard material. Some examples are coarse sand, decomposed granite, and crushed lava rock. The remaining 25% should be organic matter made of decomposed plant material like composted bark or leaf mulch. The material shouldn’t be new or partially decomposed, as that would generate heat, thereby damaging the roots. If you can’t find the organic matter easily, you can go for the bark that orchid growers use or a non-water-retaining potting soil. (**Current soil: Akadama mix from Amazon**)
+- The soil should contain around 75 % of inorganic matter like aggregate rock or other hard material. Some examples are coarse sand, decomposed granite, and crushed lava rock. The remaining 25% should be organic matter made of decomposed plant material like composted bark or leaf mulch. The material shouldn’t be new or partially decomposed, as that would generate heat, thereby damaging the roots. If you can’t find the organic matter easily, you can go for the bark that orchid growers use or a non-water-retaining potting soil. (**Current soil: Akadama mix**)
 - They need a lot of light. It would be best to expose them to the morning sunlight as it’s good due to its low intensity. Bear in mind that direct afternoon sunlight in summers can cause burns in the leaves.
 - Usually the Chinese elm is overwintered as an indoor bonsai. Due to the high temperatures in the room, an elm bonsai consumes a lot of energy in winter.
 - To get enough energy (sugar) by photosynthesis before winter, **we cut bonsai of the Chinese elm only until mid August.**
@@ -63,7 +63,7 @@ This is a collection of notes about each type of bonsai tree I own and guides fo
 
 - Acquired in January 2023 from Kimura Bonsai (Kashi no Ki-en Garden) in Castaic, CA.
 - Need to do more research on this tree, haven't found much solid information on their care. My first flowering/fruiting bonsai.
-- Prune and re-wire early Spring. (**Next repotting: Late Feb/Early March 2025 before growing season. Spread roots to develop nebari.**)
+- Prune and re-wire early Spring. (**Next repotting: Late Feb/Early March 2025 before growing season.**)
 - Seems to prefer shade/partial shade. Developed leaf scorch in full sun during July, moved to shade and began growing berries and flowers again almost immediately.
 - Roots thrive in a cool, moist substrate high in organic matter.
 - Beautyberry at maturity is an irregular upright form with graceful arching branches.
