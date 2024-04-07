@@ -10,7 +10,7 @@ Being a stoic isn't about being cold and unfeeling, it's about **separating the 
 >
 > **"Do not wish that all things will go well with you, but that you will go well with all things."**
 >
-> \- Epictetus
+> — Epictetus
 
 The circumstances that are within your control to change you must be confident in yourself to rise to the challenge they present to you to the best of your ability.
 
@@ -24,7 +24,7 @@ External circumstances are beyond our power to change, and **the only thing you 
 >
 > Work, therefore to be able to say to every harsh appearance, "You are but an appearance, and not absolutely the thing you appear to be." And then examine it by those rules which you have, and first, and chiefly, by this: whether it concerns the things which are in our own control, or those which are not; and, **if it concerns anything not in our control, be prepared to say that it is nothing to you.**"
 >
-> \- Epictetus, *Enchiridion*
+> — Epictetus, *Enchiridion*
 
 ### further reading.
 
