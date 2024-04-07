@@ -4,7 +4,9 @@ Strong opinions and philosophies collected and developed through lived experienc
 
 ## start here:
 
-[[do less]] - Why I don't like creative tools that do too much.
+[[do_less]] - Why I don't like creative tools that do too much.
+
+[[fresh_perspective]] - The first step to working fast is working less.
 
 ## recently updated others:
 
