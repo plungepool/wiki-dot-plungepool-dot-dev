@@ -80,3 +80,7 @@ This is a collection of notes about each type of bonsai tree I own and guides fo
 - The bonsai in winter will most likely each need watering every 2-3 days if it hasn't rained. If the soil still seems damp on the second day wait till the 3rd. If it gets hot out (75+ degrees) check to see every day if the soil has dried out faster and water more if needed.
 - The soil (akadama) turns from a dark brown to a light tan when it is starting to dry out so you can check visually. Soak the soil until it's completely wet and water is running out the bottom of the pot.
 - In the summer, expect to water every day. If the soil is still damp about an inch deep, you may consider delaying watering for another day or half day. Water in the evening for best retention. Japanese beautyberry may require less watering than elms so watering all trees without checking soil moisture individually is to be avoided.
+
+> *"All art is a proxy for something else. And I feel that bonsai, if not overtly figural, is at least a proxy for our hopes of the future, as a post-dated love letter."* 
+>
+> — Michael Hagedorn
