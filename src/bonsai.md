@@ -68,6 +68,10 @@ This is a collection of notes about each type of bonsai tree I own and guides fo
 - Roots thrive in a cool, moist substrate high in organic matter.
 - Beautyberry at maturity is an irregular upright form with graceful arching branches.
 
+#### others:
+
+[tbd]
+
 #### bonsai wishlist:
 
 - Japanese maple
