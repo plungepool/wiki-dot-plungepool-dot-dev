@@ -14,6 +14,8 @@ My name is Rob Duffy and this is my wiki and personal memex. I'm a musician and 
 
 [github](https://github.com/plungepool)
 
+[merveilles.town](https://merveilles.town/@plungepool)
+
 ## contact.
 
 *email*: [rob@plungepool.dev](mailto:rob@plungepool.dev)
