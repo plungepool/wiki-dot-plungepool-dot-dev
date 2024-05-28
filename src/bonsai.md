@@ -96,7 +96,7 @@ In 2024 I joined my local bonsai club and am learning at a much more rapid pace 
 ### tree mallow cuttings
 
 - Acquired in April 2024 from local bonsai club raffle. A member propagated these from cuttings last year.
-- This thing hates me, and it maybe also hates water? I've read this is a very drought-tolerant plant so I'm trying to only water it once or twice and week and see if it's happier with that. Supposedly full sun is fine for these. But since I got it the leaves keep yellowing and dropping off one by one.
+- This thing hates me, and it maybe also hates water? I've read this is a very drought-tolerant plant so I'm trying to only water it once or twice and week and see if it's happier with drier soil. Supposedly full sun is fine for these. But since I got it the leaves keep yellowing and dropping off one by one.
 
 ### yellow mallow
 
