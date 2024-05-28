@@ -103,6 +103,8 @@ In 2024 I joined my local bonsai club and am learning at a much more rapid pace 
 - Acquired in May 2024 from local bonsai club raffle.
 - I know nothing about these, I don't know if I care to bonsai them or the tree mallow, but will keep it around and see if it grows on me.
 
+## other notes.
+
 #### bonsai wishlist:
 
 - Japanese maple
