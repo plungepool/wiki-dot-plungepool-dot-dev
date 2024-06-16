@@ -35,7 +35,7 @@ In 2024 I joined my local bonsai club and am learning at a much more rapid pace 
 - **Styling notes:** Want to develop as a split trunk, with a primary main trunk and a secondary trunk going off to the right near the base.
 - **Same care notes as the other chinese elm.** This one I have aggressively chopped since this photo was taken, in an attempt to develop its natural existing split trunk.
 
-### japanese beautyberry (**callicarpa** japonica)
+### japanese beautyberry (*callicarpa japonica*)
 
 ![Beautyberry 2023-03-23](../media/Beautyberry%202023-03-23.jpg)
 
@@ -55,27 +55,27 @@ In 2024 I joined my local bonsai club and am learning at a much more rapid pace 
 
 *Photo: May 2024*
 
-### honeysuckle
+### honeysuckle (*lonicera japonica?*)
 
 - Acquired in May 2024 from local bonsai club raffle. 
 - **Styling notes:** This one came nicely styled already with a deadwood feature near the base.
-- **Next repotting - Unsure:** TODO: Have to research.
+- **Next repotting - Unsure:** Repot in spring or fall, every 2-3 years when roots are reaching out near the bottom of the pot.
 - **Current soil - Unsure:** Soil has organic matter sprinkled on top.
 - **Sunlight - Full sun:** Starting in full sun to see how it does.
-- **Growing season:**  TODO: Have to research.
-- **Dormant season:** TODO: Have to research.
+- **Growing season:**  Spring through summer.
+- **Dormant season:** Evergreen.
 - **Fertilizing:** Same as other trees for now.
 
 ### pelargonium
 
 - Acquired in April 2024 from local bonsai club raffle. 
 - **Styling notes:** Came lightly styled in small pot.
-- **Next repotting - Unsure:** TODO: Have to research.
-- **Current soil - Unsure:** TODO: Have to research.
+- **Next repotting - Unsure:** Repot young plants during growth spurts, every 2-3 years for mature plants.
+- **Current soil - Unsure:** Soil is gravely and organic.
 - **Sunlight - Full sun:** Starting in full sun to see how it does. Supposedly in the hottest parts of summer it may prefer shade.
-- **Growing season:**  TODO: Have to research.
-- **Dormant season:** TODO: Have to research.
-- **Fertilizing:** Same as other trees for now.
+- **Growing season:**  Spring through fall, sometimes into winter.
+- **Dormant season:** None, it's a flowering geranium.
+- **Fertilizing:** Flower fertilizer pellets.
 
 ## pre-bonsai material.
 
@@ -96,7 +96,7 @@ In 2024 I joined my local bonsai club and am learning at a much more rapid pace 
 ### tree mallow cuttings
 
 - Acquired in April 2024 from local bonsai club raffle. A member propagated these from cuttings last year.
-- This thing hates me, and it maybe also hates water? I've read this is a very drought-tolerant plant so I'm trying to only water it once or twice and week and see if it's happier with drier soil. Supposedly full sun is fine for these. But since I got it the leaves keep yellowing and dropping off one by one.
+- Seems to like full sun and daily watering.
 
 ### yellow mallow
 
