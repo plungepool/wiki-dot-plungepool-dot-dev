@@ -55,14 +55,14 @@ In 2024 I joined my local bonsai club and am learning at a much more rapid pace 
 
 *Photo: May 2024*
 
-### honeysuckle (*lonicera japonica?*)
+### honeysuckle (*lonicera japonica*)
 
 - Acquired in May 2024 from local bonsai club raffle. 
 - **Styling notes:** This one came nicely styled already with a deadwood feature near the base.
 - **Next repotting - Unsure:** Repot in spring or fall, every 2-3 years when roots are reaching out near the bottom of the pot.
 - **Current soil - Unsure:** Soil has organic matter sprinkled on top.
 - **Sunlight - Full sun:** Starting in full sun to see how it does.
-- **Growing season:**  Spring through summer.
+- **Growing season:**  Spring through summer. Blooms mid-late June.
 - **Dormant season:** Evergreen.
 - **Fertilizing:** Same as other trees for now.
 

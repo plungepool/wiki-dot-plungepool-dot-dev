@@ -8,11 +8,9 @@ My name is Rob Duffy and this is my wiki and personal memex. I'm a musician and 
 
 ## external links.
 
-[tech portfolio](https://plungepool.dev/)
+[github](https://github.com/plungepool)
 
 [audio business](https://www.cyclopssound.com/)
-
-[github](https://github.com/plungepool)
 
 [merveilles.town](https://merveilles.town/@plungepool)
 
