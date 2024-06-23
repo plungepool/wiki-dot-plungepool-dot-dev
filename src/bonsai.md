@@ -93,6 +93,7 @@ In 2024 I joined my local bonsai club and am learning at a much more rapid pace 
 - Acquired in May 2024 from local bonsai club raffle.
 - A club member warned me that they don't make good bonsai, but I might try anyway. I think they're beautiful trees to have around either way.
 - Hottest part of summer got a little intense and leaves closed up, happier when moved to partial shade.
+- Would be nice to try and get into a large grow box next year
 
 ### tree mallow cuttings
 
