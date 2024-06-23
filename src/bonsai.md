@@ -19,7 +19,7 @@ In 2024 I joined my local bonsai club and am learning at a much more rapid pace 
 - Acquired in January 2020 from Kimura Bonsai at their former location in Northridge, CA. This was is my first tree which I kept alive indoors under grow lamps in our 1-bedroom apartment until June 2022 when we were able to move to a place with outdoor space. It's much happier to be outdoors now, but I am now in the process of re-training it as I need to develop the trunk more before concerning myself with the branch structure like I was previously trying to.
 - **Styling notes:** Not sure yet! In the process of rethinking its entire design. I love the existing nebari, so I definitely want to keep developing that.
 - **Next repotting - Late Feb 2025 or 2026 before growing season:** Last repotted in 2024, but want to repot again next chance I get in order to re-train it in an oversized wooden box in order to grow the trunk. The nebari is probably the nicest thing about this tree currently as well and putting it into a larger container I can spread the roots and develop it more.
-- **Current soil - Akadama mix:** Akadama is great for developing a fine root system in a smaller pot, however it is relatively expensive so I will have to research or ask a club member for a recommendation on another type of soil mix when I move it to a box.
+- **Current soil - Akadama only:** Next repotting, need to mix the akadama with pumice and lavarock. Akadama on its own will break down and become clay-ish when used by itself.
 - **Sunlight - Full sun:** Chinese elms need a lot of light. Placing somewhere it can be exposed to morning sunlight is better due to its low intensity. Direct afternoon sunlight in summers can cause burns in the leaves.
 - **Growing season:**  Begins sprouting in mid-Feb to early March. Pruning a little before shoots start coming out can help stimulate growth.
 - **Dormant season:** I've read that to store up enough energy before winter, you're supposed to prune the Chinese elm only until mid August. However in my very warm climate, new shoots are forming as late as mid-September, so I feel like later than August is probably ok.
@@ -42,10 +42,10 @@ In 2024 I joined my local bonsai club and am learning at a much more rapid pace 
 *Photo: Mar 2023*
 
 - Acquired in January 2023 from Kimura Bonsai (Kashi no Ki-en Garden) in Castaic, CA. 
-- Need to do more research on this tree, haven't found much solid information on their care. A club member suggested that I try to figure out what trees are closely related to it and try following guidelines for those.
+- Not a lot of solid information out there that I've been able to find about this tree as a bonsai.
 - **Styling notes:** Beautyberry at maturity is an irregular upright form with graceful arching branches, so I want to emulate that. Grows flowers and purple berries during the summer. 
 - **Next repotting - Late Feb 2025 before growing season:** Prune and wire in early Spring.
-- **Current soil - Akadama mix:** This tree I'm not sure I will try and box train like the chinese elms so akadama is fine for now. I also really like how easy and visual it is to identify when the soil needs watering. One of the few pieces of information I've picked up about this tree is that apparently the roots thrive in a cool, moist substrate high in organic matter. 
+- **Current soil - Akadama only:** Next repotting try akadama/pumice/lavarock mix, but one of the few pieces of information I've picked up about this tree is that apparently the roots "thrive in a cool, moist substrate high in organic matter" so I could also try a more organic soil. 
 - **Sunlight - Shade/Partial:** Seems to prefer shade/partial shade. Developed leaf scorch in full sun during July, moved to shade and began growing berries and flowers again almost immediately.
 - **Growing season:**  Begins sprouting in early-mid March if I remember correctly. Need to take note of it more precisely next year.
 - **Dormant season:** I think it went dormant around October last year. Will have to note it more precisely this year.
@@ -60,7 +60,7 @@ In 2024 I joined my local bonsai club and am learning at a much more rapid pace 
 - Acquired in May 2024 from local bonsai club raffle. 
 - **Styling notes:** This one came nicely styled already with a deadwood feature near the base.
 - **Next repotting - Unsure:** Repot in spring or fall, every 2-3 years when roots are reaching out near the bottom of the pot.
-- **Current soil - Unsure:** Soil has organic matter sprinkled on top.
+- **Current soil - Unsure:** Soil has inorganic matter and moss sprinkled on top.
 - **Sunlight - Full sun:** Starting in full sun to see how it does.
 - **Growing season:**  Spring through summer. Blooms mid-late June.
 - **Dormant season:** Evergreen.
@@ -71,7 +71,7 @@ In 2024 I joined my local bonsai club and am learning at a much more rapid pace 
 - Acquired in April 2024 from local bonsai club raffle. 
 - **Styling notes:** Came lightly styled in small pot.
 - **Next repotting - Unsure:** Repot young plants during growth spurts, every 2-3 years for mature plants.
-- **Current soil - Unsure:** Soil is gravely and organic.
+- **Current soil - Unsure:** Soil is gravely and inorganic.
 - **Sunlight - Full sun:** Starting in full sun to see how it does. Supposedly in the hottest parts of summer it may prefer shade.
 - **Growing season:**  Spring through fall, sometimes into winter.
 - **Dormant season:** None, it's a flowering geranium.
@@ -93,7 +93,7 @@ In 2024 I joined my local bonsai club and am learning at a much more rapid pace 
 - Acquired in May 2024 from local bonsai club raffle.
 - A club member warned me that they don't make good bonsai, but I might try anyway. I think they're beautiful trees to have around either way.
 - Hottest part of summer got a little intense and leaves closed up, happier when moved to partial shade.
-- Would be nice to try and get into a large grow box next year
+- Would be nice to try and get into a large grow box this summer.
 
 ### tree mallow cuttings
 
