@@ -88,14 +88,19 @@ In 2024 I joined my local bonsai club and am learning at a much more rapid pace 
 - Canvas bag acquired in April 2024 from local bonsai club raffle, forest acquired in May 2024 from local bonsai club raffle.
 - It's a succulent but can be styled as a bonsai tree, also good to live indoors. Want to try styling part of the one in the bag for indoors. The forest I could chop short and arrange in an oversized wooden box to begin to develop.
 
-### jacaranda
+### flame tree
 
 - Acquired in May 2024 from local bonsai club raffle.
-- A club member warned me that they don't make good bonsai, but I might try anyway. I think they're beautiful trees to have around either way.
+- Was told this was a jacaranda originally, but upon further research it's actually a flame tree. Not particularly good material for bonsai but might just see what I can do with it since it's in a big nursery pot.
 - Hottest part of summer got a little intense and leaves closed up, happier when moved to partial shade.
-- Would be nice to try and get into a large grow box this summer.
+- Might try and put into a large grow box this summer.
 
-### tree mallow cuttings
+**norway spruce**
+
+- Grew from seeds starting around Feb 2024.
+- Two sprouted, waiting to see if they develop.
+
+### tree mallow 
 
 - Acquired in April 2024 from local bonsai club raffle. A member propagated these from cuttings last year.
 - Seems to like full sun and daily watering.
@@ -112,6 +117,7 @@ In 2024 I joined my local bonsai club and am learning at a much more rapid pace 
 - Japanese maple
 - Wisteria
 - Nana Juniper/California Juniper
+- Oak
 - More chinese elms!!
 
 #### watering guide for bonsai-sitters:
