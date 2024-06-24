@@ -95,7 +95,7 @@ In 2024 I joined my local bonsai club and am learning at a much more rapid pace 
 - Hottest part of summer got a little intense and leaves closed up, happier when moved to partial shade.
 - Might try and put into a large grow box this summer.
 
-**norway spruce**
+### norway spruce
 
 - Grew from seeds starting around Feb 2024.
 - Two sprouted, waiting to see if they develop.
