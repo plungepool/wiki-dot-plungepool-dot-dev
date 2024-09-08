@@ -92,13 +92,15 @@ gg=G - autoformat/indent whole file
 
 **Substitute**
 
-```
 :s/old/new - substitutes new for first old in line
+
 :s/old/new/g - subs for all olds in line
+
 :#,#s/old/new/g - subs all olds between two line #s
+
 :%s/old/new/g - subs all in file
+
 :%s/old/new/gc - same but asks for confirmation for each one
-```
 
 **Help**
 
