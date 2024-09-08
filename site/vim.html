@@ -29,78 +29,78 @@
 <p>Since late May 2024 I decided I'd take another go at learning VIM motions and shortcuts while working on one of my new personal projects. It's been going pretty well! But I still need my cheatsheet a lot of the time.</p>
 <p>I can't say that these types of shortcuts make me feel more productive than a traditional IDE or text editor at this stage, but it brings its own type of fun to use a tool like this which is good enough for now.</p>
 <h2>NVIM- A Cheatsheet</h2>
-<p><strong>Navigation</strong>
-<code>hjkl - move cursor</code>
-<code>w - next word</code>
-<code>b - back a word</code>
-<code>e - end of next word</code>
-<code>$ - end of line</code>
-<code>0 or ^ - move to start of line</code>
-<code>_ - move to first character of line</code>
-<code>G - moves to end of file</code>
-<code>\#G - moves to line #</code>
-<code>gg - moves to start of file</code>
-<code>&lt;C-o&gt; - moves back to previous positions</code>
-<code>&lt;C-i&gt; - moves forward to newer positions</code>
-<code>/string - searches for string forward</code>
-<code>?string - searches for string backwards</code>
-<code>n - next occurrence forward</code>
-<code>N - next backwards</code>
-<code>% - over a bracket jumps to matching bracket</code>
-<code>fx - find in line</code>
-<code>&lt;C-]&gt; - jump to function definition</code></p>
-<p><strong>Modes</strong>
-<code>esc - normal mode</code>
-<code>i - insert at cursor</code>
-<code>I - insert at beginning of line</code>
-<code>a - append at cursor</code>
-<code>A - append at end of line</code>
-<code>v - visual highlight</code>
-<code>&lt;C-v&gt; - visual block (vertical)</code></p>
-<p><strong>Motions</strong>
-<code>press twice = do this to the whole line</code>
-<code>x - delete character under cursor</code>
-<code>d - delete</code>
-<code>D - delete from cursor to end of line (also d$)</code>
-<code>dd - delete whole line</code>
-<code>u - undo</code>
-<code>U - undo changes on line</code>
-<code>&lt;C-r&gt; - redo</code>
-<code>c - change</code>
-<code>cc - change whole line</code>
-<code>y - yank (copy)</code>
-<code>yy - yank whole line</code>
-<code>p - put/paste</code>
-<code>r - replace</code>
-<code>R - replace multiple</code>
-<code>o - new line below cursor</code>
-<code>O - new line above cursor</code>
-<code>V - select whole line</code></p>
-<p><strong>Files</strong>
-<code>nvim * - open all files in current folder</code>
-<code>:[w]n(ext) - [write and] go to next file</code>
-<code>:[w]p(revious) - [write and] go to previous file</code>
-<code>:! - unix command</code>
-<code>:w - save</code>
-<code>:q! - quit without saving</code>
-<code>:wq or ZZ - save and quit</code>
-<code>&lt;C-g&gt; - displays cursor location and file status</code>
-<code>F1 - new window</code>
-<code>&lt;C-w&gt; - change window</code>
-<code>&lt;C-d&gt; or Tab - autocomplete command</code>
-<code>:tabnew [filename] - open file in new tab</code>
-<code>:e [filename] - edit or create file by filename</code></p>
-<p><strong>Formatting</strong>
-<code>gg=G - autoformat/indent whole file</code>
-<code>&lt;C-y&gt; - accept autocomplete suggestion</code></p>
-<p><strong>Substitute</strong>
-<code>:s/old/new - substitutes new for first old in line</code>
-<code>:s/old/new/g - subs for all olds in line</code>
-<code>:#,#s/old/new/g - subs all olds between two line #s</code>
-<code>:%s/old/new/g - subs all in file</code>
-<code>:%s/old/new/gc - same but asks for confirmation for each one</code></p>
-<p><strong>Help</strong>
-<code>:help - opens help text, use help \&lt;something\&gt; to search for docs on a particular thing</code></p>
+<p><strong>Navigation</strong></p>
+<p><code>hjkl - move cursor
+w - next word
+b - back a word
+e - end of next word
+$ - end of line
+0 or ^ - move to start of line
+_ - move to first character of line
+G - moves to end of file
+\#G - moves to line #
+gg - moves to start of file
+&lt;C-o&gt; - moves back to previous positions
+&lt;C-i&gt; - moves forward to newer positions
+/string - searches for string forward
+?string - searches for string backwards
+n - next occurrence forward
+N - next backwards
+% - over a bracket jumps to matching bracket
+fx - find in line
+&lt;C-]&gt; - jump to function definition</code></p>
+<p><strong>Modes</strong></p>
+<p><code>esc - normal mode
+i - insert at cursor
+I - insert at beginning of line
+a - append at cursor
+A - append at end of line
+v - visual highlight
+&lt;C-v&gt; - visual block (vertical)</code></p>
+<p><strong>Motions</strong></p>
+<p><code>press twice = do this to the whole line
+x - delete character under cursor
+d - delete
+D - delete from cursor to end of line (also d$)
+dd - delete whole line
+u - undo
+U - undo changes on line
+&lt;C-r&gt; - redo
+c - change
+cc - change whole line
+y - yank (copy)
+yy - yank whole line
+p - put/paste
+r - replace
+R - replace multiple
+o - new line below cursor
+O - new line above cursor
+V - select whole line</code></p>
+<p><strong>Files</strong></p>
+<p><code>nvim * - open all files in current folder
+:[w]n(ext) - [write and] go to next file
+:[w]p(revious) - [write and] go to previous file
+:! - unix command
+:w - save
+:q! - quit without saving
+:wq or ZZ - save and quit
+&lt;C-g&gt; - displays cursor location and file status
+F1 - new window
+&lt;C-w&gt; - change window
+&lt;C-d&gt; or Tab - autocomplete command
+:tabnew [filename] - open file in new tab
+:e [filename] - edit or create file by filename</code></p>
+<p><strong>Formatting</strong></p>
+<p><code>gg=G - autoformat/indent whole file
+&lt;C-y&gt; - accept autocomplete suggestion</code></p>
+<p><strong>Substitute</strong></p>
+<p><code>:s/old/new - substitutes new for first old in line
+:s/old/new/g - subs for all olds in line
+:#,#s/old/new/g - subs all olds between two line #s
+:%s/old/new/g - subs all in file
+:%s/old/new/gc - same but asks for confirmation for each one</code></p>
+<p><strong>Help</strong></p>
+<p><code>:help - opens help text, use help \&lt;something\&gt; to search for docs on a particular thing</code></p>
     </div>
   </body>
   <footer>
