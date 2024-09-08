@@ -50,7 +50,7 @@ Also be sure to support and download [Suka Pass](https://www.sukapass.com/), a f
 
 ![diablo-ii](../media/diablo-ii.png)
 
-I had never touched the Diablo series much until early 2022, but picking up Diablo II for the first time with this remaster completely blindsided me with how much I had been missing. I had played Diablo-likes before, as well as just a bit of Diablo 3, and found them to be mostly too "brain-off" for my enjoyment. Diablo II is still highly regarded for a reason as it turns out though, and it quickly showed itself to be one of the  games I've ever played.
+I had never touched the Diablo series much until early 2022, but picking up Diablo II for the first time with this remaster completely blindsided me with how much I had been missing. I had played Diablo-likes before, as well as just a bit of Diablo 3, and found them to be mostly too "brain-off" for my enjoyment. Diablo II is still highly regarded for a reason as it turns out though, and it quickly showed itself to be one of the best games I've ever played.
 
 It strikes a perfect balance between mindlessness and mindfulness. One moment you might be on metaphorical autopilot, stomping through small enemies and collecting their gold, while the next second unexpectedly caught off-guard and overwhelmed, suddenly fighting for your life on a razor's edge as you chug any health potions from your inventory you can scrounge up. The variety and atmosphere through randomly-generated maps keeps things fresh just enough for near-infinite replayability. It's very rare for me to finish a game and immediately want to start it again, but Diablo II has been one of those games.
 
