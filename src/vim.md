@@ -8,125 +8,125 @@ I can't say that these types of shortcuts make me feel more productive than a tr
 
 ### **Navigation**
 
-`hjkl - move cursor`
+hjkl - move cursor
 
-`w - next word`
+w - next word
 
-`b - back a word`
+b - back a word
 
-`e - end of next word`
+e - end of next word
 
-`$ - end of line`
+$ - end of line
 
-`0 or ^ - move to start of line`
+0 or ^ - move to start of line
 
-`_ - move to first character of line`
+_ - move to first character of line
 
-`G - moves to end of file`
+G - moves to end of file
 
-`#G - moves to line #`
+#G - moves to line #
 
-`gg - moves to start of file`
+gg - moves to start of file
 
-`<C-o> - moves back to previous positions`
+\<C-o\> - moves back to previous positions
 
-`<C-i> - moves forward to newer positions`
+\<C-i\> - moves forward to newer positions
 
-`/string - searches for string forward`
+/string - searches for string forward
 
-`?string - searches for string backwards`
+?string - searches for string backwards
 
-`n - next occurrence forward`
+n - next occurrence forward
 
-`N - next backwards`
+N - next backwards
 
-`% - over a bracket jumps to matching bracket`
+% - over a bracket jumps to matching bracket
 
-`fx - find in line`
+fx - find in line
 
-`<C-]> - jump to function definition`
+\<C-]\> - jump to function definition
 
 ### **Modes**
 
-`esc - normal mode`
+esc - normal mode
 
-`i - insert at cursor`
+i - insert at cursor
 
-`I - insert at beginning of line`
+I - insert at beginning of line
 
-`a - append at cursor`
+a - append at cursor
 
-`A - append at end of line`
+A - append at end of line
 
-`v - visual highlight`
+v - visual highlight
 
-`<C-v> - visual block (vertical)`
+\<C-v\> - visual block (vertical)
 
 ### **Motions**
 
-`press twice = do this to the whole line`
+press twice = do this to the whole line
 
-`x - delete character under cursor`
+x - delete character under cursor
 
-`d - delete`
+d - delete
 
-`D - delete from cursor to end of line (also d$)`
+D - delete from cursor to end of line (also d$)
 
-`dd - delete whole line`
+dd - delete whole line
 
-`u - undo`
+u - undo
 
-`U - undo changes on line`
+U - undo changes on line
 
-`<C-r> - redo`
+\<C-r\> - redo
 
-`c - change`
+c - change
 
-`cc - change whole line`
+cc - change whole line
 
-`y - yank (copy)`
+y - yank (copy)
 
-`yy - yank whole line`
+yy - yank whole line
 
-`p - put/paste`
+p - put/paste
 
-`r - replace`
+r - replace
 
-`R - replace multiple`
+R - replace multiple
 
-`o - new line below cursor`
+o - new line below cursor
 
-`O - new line above cursor`
+O - new line above cursor
 
-`V - select whole line`
+V - select whole line
 
 ### **Files**
 
-`nvim * - open all files in current folder`
+nvim * - open all files in current folder
 
-`:[w]n(ext) - [write and] go to next file`
+:[w]n(ext) - [write and] go to next file
 
-`:[w]p(revious) - [write and] go to previous file`
+:[w]p(revious) - [write and] go to previous file
 
-`:! - unix command`
+:! - unix command
 
-`:w - save`
+:w - save
 
-`:q! - quit without saving`
+:q! - quit without saving
 
-`:wq or ZZ - save and quit`
+:wq or ZZ - save and quit
 
-`<C-g> - displays cursor location and file status`
+\<C-g\> - displays cursor location and file status
 
-`F1 - new window`
+F1 - new window
 
-`<C-w> - change window`
+\<C-w\> - change window
 
-`<C-d> or Tab - autocomplete command`
+\<C-d\> or Tab - autocomplete command
 
-`:tabnew [filename] - open file in new tab`
+:tabnew [filename] - open file in new tab
 
-`:e [filename] - edit or create file by filename`
+:e [filename] - edit or create file by filename
 
 ### **Formatting**
 
@@ -136,17 +136,17 @@ I can't say that these types of shortcuts make me feel more productive than a tr
 
 ### **Substitute**
 
-`:s/old/new - substitutes new for first old in line`
+:s/old/new - substitutes new for first old in line
 
-`:s/old/new/g - subs for all olds in line`
+:s/old/new/g - subs for all olds in line
 
-`:#,#s/old/new/g - subs all olds between two line #s`
+:#,#s/old/new/g - subs all olds between two line #s
 
-`:%s/old/new/g - subs all in file`
+:%s/old/new/g - subs all in file
 
-`:%s/old/new/gc - same but asks for confirmation for each one`
+:%s/old/new/gc - same but asks for confirmation for each one
 
 ### **Help**
 
-`:help - opens help text, use help \<something\> to search for docs on a particular thing`
+:help - opens help text, use help \<something\> to search for docs on a particular thing
 
