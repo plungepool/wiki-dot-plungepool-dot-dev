@@ -66,62 +66,27 @@ In 2024 I joined my local bonsai club and am learning at a much more rapid pace 
 - **Dormant season:** Evergreen.
 - **Fertilizing:** Same as other trees for now.
 
-### pelargonium
-
-- Acquired in April 2024 from local bonsai club raffle. 
-- **Styling notes:** Came lightly styled in small pot.
-- **Next repotting - Unsure:** Repot young plants during growth spurts, every 2-3 years for mature plants.
-- **Current soil - Unsure:** Soil is gravely and inorganic.
-- **Sunlight - Full sun:** Starting in full sun to see how it does. Supposedly in the hottest parts of summer it may prefer shade.
-- **Growing season:**  Spring through fall, sometimes into winter.
-- **Dormant season:** None, it's a flowering geranium.
-- **Fertilizing:** Flower fertilizer pellets.
-
-## pre-bonsai material.
-
-![Pre-bonsai 2024-05-27](../media/Pre-bonsai%202024-05-27.jpg)
-
-*Photo: May 2024*
-
-### jade
-
-- Canvas bag acquired in April 2024 from local bonsai club raffle, forest acquired in May 2024 from local bonsai club raffle.
-- It's a succulent but can be styled as a bonsai tree, also good to live indoors. Want to try styling part of the one in the bag for indoors. The forest I could chop short and arrange in an oversized wooden box to begin to develop.
-
-### flame tree
-
-- Acquired in May 2024 from local bonsai club raffle.
-- Was told this was a jacaranda originally, but upon further research it's actually a flame tree. Not particularly good material for bonsai but might just see what I can do with it since it's in a big nursery pot.
-- Hottest part of summer got a little intense and leaves closed up, happier when moved to partial shade.
-- Might try and put into a large grow box this summer.
-
-### norway spruce
-
-- Grew from seeds starting around Feb 2024.
-- Two sprouted, waiting to see if they develop.
-
-### tree mallow 
-
-- Acquired in April 2024 from local bonsai club raffle. A member propagated these from cuttings last year.
-- Seems to like full sun and daily watering.
-
-### yellow mallow
-
-- Acquired in May 2024 from local bonsai club raffle.
-- I know nothing about these, I don't know if I care to bonsai them or the tree mallow, but will keep it around and see if it grows on me.
-
 ## other notes.
 
-#### bonsai wishlist:
+#### bonsai wishlist/todo:
 
-- Japanese maple
+- Rosemary (propagate from cutting)
+- Corkbark jade (have but needs styling)
+- Liquid amber/Sweetgum
 - Wisteria
-- Nana Juniper/California Juniper
-- Oak
-- More chinese elms!!
+- Black pine
+
+#### soil and fertilizer:
+
+- Standard mix for conifers but good for all trees in training: Even mix between large grain pumice, red lava rock, and pinebark. Add akadama to mix and orchid/sphagnum moss on top for trees not in training. Can also increase ratio up to 50% with pinebark/akadama or cactus mix because they hold water better.
+- Large grain pumice use 3/16ths size for smaller trees, 3/8ths for larger.
+- For trees in training: Good easy fertilizer during growing season is Bioadvanced Osmocote every 3 months.
+- For conifers: Fish and kelp emulation for fertilizer once a month (recommended Organic Fish and Kelp Liquid Fertilizer by Kellogg Garden Organics). Can also use as a foliar feed diluted in spray bottle.
+- For elms: Bioadvanced Rose & Flower Care - Use in October at start of dormancy, leaves come back tiny and more proportional in the spring
+- For trees not in training: Blood meal, bone meal, cottonseed meal mix makes for a good organic fertilizer, put in teabags on top of soil and water on top of them to release
 
 #### watering guide for bonsai-sitters:
 
-- The bonsai in winter will most likely each need watering every 2-3 days if it hasn't rained. If the soil still seems damp on the second day wait till the 3rd. If it gets hot out (75+ degrees) check to see every day if the soil has dried out faster and water more if needed.
+- The bonsai in winter dormancy will most likely each need watering every 2-3 days if it hasn't rained. If the soil still seems damp on the second day wait till the 3rd. If it gets hot out (75+ degrees) check to see every day if the soil has dried out faster and water more if needed.
 - The soil (akadama) turns from a dark brown to a light tan when it is starting to dry out so you can check visually. Soak the soil until it's completely wet and water is running out the bottom of the pot.
 - In the summer, expect to water every day. If the soil is still damp about an inch deep, you may consider delaying watering for another day or half day. Water in the evening for best retention. Japanese beautyberry may require less watering than elms so watering all trees without checking soil moisture individually is to be avoided.
