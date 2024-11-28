@@ -6,7 +6,7 @@
 
 [[untitled sfx generator]] - Procedurally-generated sound effects at the press of a button.
 
-## others.
+## experiments.
 
 [[ceevolt]] - Prototype bluetooth wireless MIDI to eurorack CV converter.
 
