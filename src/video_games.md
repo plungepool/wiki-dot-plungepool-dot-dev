@@ -2,6 +2,24 @@
 
 ## a few older titles that have fostered new obsessions.
 
+# 2024
+
+### Odin Sphere: Leifthrasir
+
+![odin_sphere](../media/odin_sphere.png)
+
+Fast, fluid action RPG with a depth of combos from one button plus directional inputs. Pausing to choose special moves and potions feels a lot like FF7 Remake/Rebirth and was nearly 20 years ahead and in 2D, the only thing comparable that I know of was Kingdom Hearts which definitely doesn't feel nearly as good. The presentation of the art and atmosphere is absolutely breathtaking. It feels so good to play on nearly every single front. Some of the most appealing character designs I've ever seen, even the big ugly dudes. Didn't finish this one yet but hoping to come back to it. For everything I like about it, it definitely gave me a thumb injury from all the mashing required so I was forced to take a break!!
+
+### Under Night In-Birth II Sys: Celes
+
+![under night](../media/under%20night.JPG)
+
+Easily my game of the year, though my reasons for that don't have all that much to do with the game itself. The changes from the previous versions would probably seem fairly marginal to the layman, but perhaps the most important component of new fighting game launches is a reignition of competitive play.
+
+Though I've been a fan for quite a while, I never really spent the time to learn the game on a deeper level. That changed this year when I made a pact with my friend that we would start attending local tournaments ahead of our trip to Evo this summer, the largest fighting game tournament in North America that we had attended casually in previous years, and do our best to enter the bracket and not embarrass ourselves.
+
+After months of getting thoroughly demolished at our locals and *literally* never winning a single game, Evo finally arrived and something miraculous happened. After sitting down to play my first match, a few minutes pass and I suddenly realize I'm actually winning. I ended up going 2-2, and my friends did similarly well in their respective games. It's hard to properly state how incredible that feeling was, and how much I exceeded my extremely humble goals going in. Truly a beautiful little personal victory that just made the high of spectating the tournament for the rest of the weekend that much better.
+
 # 2023
 
 ### Densha de Go! Final
