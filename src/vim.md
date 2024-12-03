@@ -106,7 +106,7 @@ nvim * - open all files in current folder
 
 :[w]n(ext) - [write and] go to next file
 
-:[w]p(revious) - [write and] go to previous file
+:[w]N - [write and] go to previous file
 
 :! - unix command
 
@@ -130,9 +130,9 @@ F1 - new window
 
 ### **Formatting**
 
-`gg=G - autoformat/indent whole file`
+gg=G - autoformat/indent whole file
 
-`<C-y> - accept autocomplete suggestion`
+\<C-y\> - accept autocomplete suggestion
 
 ### **Substitute**
 
