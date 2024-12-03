@@ -134,6 +134,14 @@ gg=G - autoformat/indent whole file
 
 <C-y\> - accept autocomplete suggestion
 
+### **Comment out multiple lines**
+
+<C-v\> -\> arrow up or down -\> I -\> type characters -\> Esc
+
+### **Uncomment multiple lines**
+
+<C-v\> -\> select character to remove -\> x or d
+
 ### **Substitute**
 
 :s/old/new - substitutes new for first old in line
