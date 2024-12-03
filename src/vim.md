@@ -46,6 +46,8 @@ fx - find in line
 
 <C-]\> or gd - jump to function definition
 
+% - jump to matching bracket
+
 ### **Modes**
 
 esc - normal mode
