@@ -4,7 +4,7 @@ Since late May 2024 I decided I'd take another go at learning VIM motions and sh
 
 I can't say that these types of shortcuts make me feel more productive than a traditional IDE or text editor at this stage, but it brings its own type of fun to use a tool like this which is good enough for now.
 
-## NVIM- A Cheatsheet
+## NVIM - A Cheatsheet
 
 ### **Navigation**
 
@@ -24,7 +24,7 @@ _ - move to first character of line
 
 G - moves to end of file
 
-\#G - moves to line #
+#G - moves to line #
 
 gg - moves to start of file
 
