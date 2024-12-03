@@ -44,7 +44,7 @@ N - next backwards
 
 fx - find in line
 
-<C-]\> - jump to function definition
+<C-]\> or gd - jump to function definition
 
 ### **Modes**
 
