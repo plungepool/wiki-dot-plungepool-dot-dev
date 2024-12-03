@@ -24,7 +24,7 @@ _ - move to first character of line
 
 G - moves to end of file
 
-#G - moves to line #
+\#G - moves to line #
 
 gg - moves to start of file
 
