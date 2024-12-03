@@ -106,17 +106,19 @@ V - select whole line
 
 nvim * - open all files in current folder
 
+:w - save(write) current file
+
 :[w]n(ext) - [write and] go to next file
 
 :[w]N - [write and] go to previous file
 
-:! - unix command
+:wq or ZZ - write current file and quit
 
-:w - save
+:wqa - write all and quit
 
 :q! - quit without saving
 
-:wq or ZZ - save and quit
+:! - unix command
 
 <C-g\> - displays cursor location and file status
 
