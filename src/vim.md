@@ -28,9 +28,9 @@ G - moves to end of file
 
 gg - moves to start of file
 
-\<C-o\> - moves back to previous positions
+<C-o\> - moves back to previous positions
 
-\<C-i\> - moves forward to newer positions
+<C-i\> - moves forward to newer positions
 
 /string - searches for string forward
 
@@ -44,7 +44,7 @@ N - next backwards
 
 fx - find in line
 
-\<C-]\> - jump to function definition
+<C-]\> - jump to function definition
 
 ### **Modes**
 
@@ -60,7 +60,7 @@ A - append at end of line
 
 v - visual highlight
 
-\<C-v\> - visual block (vertical)
+<C-v\> - visual block (vertical)
 
 ### **Motions**
 
@@ -78,7 +78,7 @@ u - undo
 
 U - undo changes on line
 
-\<C-r\> - redo
+<C-r\> - redo
 
 c - change
 
@@ -116,13 +116,13 @@ nvim * - open all files in current folder
 
 :wq or ZZ - save and quit
 
-\<C-g\> - displays cursor location and file status
+<C-g\> - displays cursor location and file status
 
 F1 - new window
 
-\<C-w\> - change window
+<C-w\> - change window
 
-\<C-d\> or Tab - autocomplete command
+<C-d\> or Tab - autocomplete command
 
 :tabnew [filename] - open file in new tab
 
@@ -132,7 +132,7 @@ F1 - new window
 
 gg=G - autoformat/indent whole file
 
-\<C-y\> - accept autocomplete suggestion
+<C-y\> - accept autocomplete suggestion
 
 ### **Substitute**
 
