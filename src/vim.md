@@ -94,6 +94,8 @@ yy - yank whole line
 
 p - put/paste
 
+P - paste without overwriting clipboard
+
 r - replace
 
 R - replace multiple
