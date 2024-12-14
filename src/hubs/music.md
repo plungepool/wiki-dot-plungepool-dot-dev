@@ -1,6 +1,6 @@
 # music.
 
-My notes on music as a [musician](https://wiki.plungepool.dev/site/my_music.html), [industry](https://www.cyclopssound.com/credits) [professional](https://www.allmusic.com/artist/rob-duffy-mn0003636481), [labor organizer](https://www.unionofmusicians.org/), and lifelong fan.
+My notes on music as a [musician](https://wiki.plungepool.dev/site/my_music.html), [industry](https://www.cyclopssound.com/) [professional](https://www.allmusic.com/artist/rob-duffy-mn0003636481), [labor organizer](https://www.unionofmusicians.org/), and lifelong fan.
 
 ## start here:
 

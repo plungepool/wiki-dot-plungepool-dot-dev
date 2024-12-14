@@ -10,7 +10,7 @@ My notes on technology as a hobbyist hacker recently turned professional softwar
 
 [[c programming]] - My favorite programming language and cheatsheet for using pointers.
 
-[[vim]] - My cheatsheet for nvim... trying to learn!!
+[[vim]] - My cheatsheet for nvim... learning little by little!
 
 [[embedded]] - Notes on my passion for embedded systems.
 
