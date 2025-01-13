@@ -46,7 +46,7 @@ fx - find in line
 
 <C-]\> or gd - jump to function definition
 
-\<C-o> - go back after jump
+<C-o\> - go back after jump
 
 % - jump to matching bracket
 
