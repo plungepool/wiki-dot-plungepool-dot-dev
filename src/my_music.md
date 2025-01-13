@@ -18,4 +18,4 @@
 
 [HYPERPUNK (Qbomb)](https://qbomb.bandcamp.com/album/hyperpunk) - I worked with Qbomb for several years on their demos and recording about 95% of this record before they were signed to Ghost Pixel Records and the project was handed off to another producer in the summer of 2021 to polish up and finish. The record finally came out in October 2022 and I couldn't be prouder of these guys!
 
-Additional credits can be found on my [business site](https://www.cyclopssound.com/credits), [allmusic](https://www.allmusic.com/artist/rob-duffy-mn0003636481), and [discogs](https://www.discogs.com/artist/4646318-Rob-Duffy).
+Additional credits can be found on my [business site](https://www.cyclopssound.com), [allmusic](https://www.allmusic.com/artist/rob-duffy-mn0003636481), and [discogs](https://www.discogs.com/artist/4646318-Rob-Duffy).
