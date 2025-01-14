@@ -166,3 +166,4 @@ gg=G - autoformat/indent whole file
 
 :help - opens help text, use help \<something\> to search for docs on a particular thing
 
+<space-E\> - Open LSP error and warning text in overlay
