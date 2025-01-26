@@ -1,6 +1,6 @@
 # garage kits.
 
-Garage kits are figurines you build and paint yourself, usually designed by small creators in tiny quantities. Below are my notes about different tips and tricks I've picked up since I've started building them.
+Garage kits are figurines you build and paint yourself, usually designed by small creators in limited quantities. Below are my notes about different tips and tricks I've picked up since I've started building them.
 
 ![daicon-garage-kit](../../media/daicon-garage-kit.JPG)
 
