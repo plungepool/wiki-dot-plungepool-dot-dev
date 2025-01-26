@@ -15,5 +15,3 @@ My notes on technology as a hobbyist hacker recently turned professional softwar
 [[embedded]] - Notes on my passion for embedded systems.
 
 [[embedded programming in c]] - My cheatsheets for embedded programming in C.
-
-[[bash]] - My old disorganized cheatsheet for bash script
