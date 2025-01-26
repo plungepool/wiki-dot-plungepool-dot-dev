@@ -6,9 +6,9 @@ My notes on music as a [musician](https://wiki.plungepool.dev/site/my_music.html
 
 [[my music]] - Selected works and favorite production credits.
 
-[[music tools]] - A catalog of my favorite musical implements.
+[[audio engineering]] - Advice I find myself commonly repeating on the topic of audio engineering.
 
 ## recently updated others:
 
-[[audio engineering]] - Advice I find myself commonly repeating on the topic of audio engineering.
+[[music tools]] - A catalog of my favorite musical implements.
 
