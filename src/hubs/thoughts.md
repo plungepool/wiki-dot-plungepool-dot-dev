@@ -12,5 +12,5 @@ Strong opinions and philosophies collected and developed through lived experienc
 
 [[intermediate_learning]] - Why you can't actually learn everything on the internet.
 
-[[stoicism]] - Why I believe stoicism is the key to happiness.
+[[stoicism]] - Why I believe learning to let go is the key to happiness.
 

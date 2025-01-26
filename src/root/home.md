@@ -6,5 +6,5 @@
 
 - [[my projects]] - Favorite tools I've built and what I learned from building them.
 - [[my music]] - Selected works and favorite production credits.
-- [[music tools]] - A catalog of my favorite musical implements.
 - [[bonsai]] - Notes and logs about my various bonsai trees and general bonsai care.
+- [[stoicism]] - Why I believe learning to let go is the key to happiness.
