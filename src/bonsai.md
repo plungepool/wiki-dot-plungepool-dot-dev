@@ -20,9 +20,10 @@ In 2024 I joined my local bonsai club and am learning at a much more rapid pace 
 - **Styling notes:** Not sure yet! In the process of rethinking its entire design. I love the existing nebari, so I definitely want to keep developing that.
 - **Last repotting - Late Jan 2025**: Repotted into oversized grow box to spread roots and develop nebari. 
 - **Sunlight - Full sun:** Chinese elms need a lot of light. Placing somewhere it can be exposed to morning sunlight is better due to its low intensity. Direct afternoon sunlight in summers can cause burns in the leaves.
-- **Growing season:**  Begins sprouting in mid-Feb to early March. Pruning a little before shoots start coming out can help stimulate growth.
-- **Dormant season:** I've read that to store up enough energy before winter, you're supposed to prune the Chinese elm only until mid August. However in my very warm climate, new shoots are forming as late as mid-September, so I feel like later than August is probably ok.
-- **Soil and Fertilizer:** Fertilize with osmocote, could try rose fertilizer which supposedly reduces the size of the leaves.
+- **Watering:** Water thoroughly when top layer of soil is dry. Should not be allowed to dry out completely, though is somewhat tolerant to overwatering and underwatering.
+- **Growing season:**  Buds sprout in mid-March.
+- **Dormant season:** Chinese elms don't need a dormant period and generally adapt to their climate. Does go dormant for parts of the year, but will also sprout out some leaves occasionally during the warmer weeks of winter.
+- **Soil and Fertilizer:** Fertilize with osmocote, could try rose fertilizer which supposedly reduces the size of the leaves. Standard training mix.
 
 ### chinese elm (split-trunk)
 
@@ -46,8 +47,9 @@ In 2024 I joined my local bonsai club and am learning at a much more rapid pace 
 - **Styling notes:** Beautyberry at maturity is an irregular upright form with graceful arching branches, so I want to emulate that. Grows flowers and purple berries during the summer. I've noticed that new branches take a long time to ramify, and branches are quite brittle. This will probably prove to be a much slower to develop tree due to this.
 - **Last repotting - Late Jan 2025**
 - **Sunlight - Shade/Partial:** Seems to prefer shade/partial shade. Developed leaf scorch in full sun during July, moved to shade and began growing berries and flowers again almost immediately.
-- **Growing season:**  Begins sprouting in early-mid March if I remember correctly. Need to take note of it more precisely next year.
-- **Dormant season:** I think it went dormant around October last year. Will have to note it more precisely this year.
+- **Watering:** Tends to only need water every 2 days when in partial shade even during hottest times of year.
+- **Growing season:**  Begins sprouting in early-mid March.
+- **Dormant season:** Goes dormant around November.
 - **Soil and Fertilizer:** Currently in the same training mix as other trees. Still not a lot of info on this species, but one of the few pieces of information I've picked up is that apparently the roots "thrive in a cool, moist substrate high in organic matter" so I could also try a more organic soil. Same fertilizer as other deciduous trees for now.
 
 ![Pelargonium and Honeysuckle 2024-05-27](../media/Pelargonium%20and%20Honeysuckle%202024-05-27.jpg)
@@ -60,7 +62,8 @@ In 2024 I joined my local bonsai club and am learning at a much more rapid pace 
 - **Styling notes:** This one came nicely styled already with a deadwood feature near the base. The leaves and flowers develop naturally into sort of "pom-pom" shapes, so I want to lean into that over time to create a lot of pads.
 - **Last repotting - Unsure:** Repot in spring or fall, every 2-3 years when roots are reaching out near the bottom of the pot.
 - **Sunlight - Full sun:** Seems to enjoy full sun.
-- **Growing season:**  Spring through summer. Blooms sort of year-round.
+- **Watering:** Tends to not need daily watering even in the hottest times of the year.
+- **Growing season:**  Year-round.
 - **Dormant season:** Evergreen shrub.
 - **Soil and Fertilizer:** Unsure of current soil. Has inorganic matter and moss sprinkled on top. Using osmocote for fertilizer.
 
@@ -70,9 +73,10 @@ In 2024 I joined my local bonsai club and am learning at a much more rapid pace 
 - **Styling notes:** These are still quite young, going to try wiring branches into interesting shapes as early as possible but far from envisioning the final shape of the trees.
 - **Last repotting - Late Jan 2025**
 - **Sunlight - Full sun**
-- **Growing season:**  Spring through summer.
+- **Watering:** Water thoroughly daily. Should not be allowed to dry out completely and always remain a little moist.
+- **Growing season:**  Grows year-round, but most vigorous growth in spring through summer.
 - **Dormant season:** Evergreen.
-- **Soil and Fertilizer:** Fish emulsion once per month during growing season, and sprayed as foliar feed.
+- **Soil and Fertilizer:** Fish emulsion once per month during growing season, and sprayed as foliar feed. Standard training mix.
 
 ### pyracantha
 
@@ -80,9 +84,10 @@ In 2024 I joined my local bonsai club and am learning at a much more rapid pace 
 - **Styling notes:** Not yet started styling, want to use its current trunk shape but need to research more for possible styles.
 - **Last repotting - Late Jan 2025**
 - **Sunlight - Full sun**
-- **Growing season:**  Spring through summer.
+- **Watering:** Water thoroughly when top layer of soil is dry. Keep moist.
+- **Growing season:**  Year-round.
 - **Dormant season:** Evergreen.
-- **Soil and Fertilizer:** Osmocote pellets during growing season.
+- **Soil and Fertilizer:** Osmocote pellets during growing season. Standard training mix.
 
 ### japanese maple
 
@@ -90,19 +95,40 @@ In 2024 I joined my local bonsai club and am learning at a much more rapid pace 
 - **Styling notes:** Cut in half and tried to bend trunk as hard as I could. Need to allow it to recover and grow vigorously, then will probably cut back again to start developing.
 - **Last repotting - Late Jan 2025**
 - **Sunlight - Shade/Partial:** Is vulnerable to full sun during hottest months.
-- **Growing season:** Grows visible buds in the fall and winter which don't push out until the spring.
+- **Watering:** Prefers more moisture. During hottest times of year make sure soil remains moist.
+- **Growing season:** Grows visible buds in the fall and winter which don't push out until the spring. Goes visibly dormant in fall.
 - **Dormant season:** Goes dormant around october.
-- **Soil and Fertilizer:** Osmocote pellets during growing season for now.
+- **Soil and Fertilizer:** Osmocote pellets during growing season for now. Standard training mix.
+
+### pomegranate
+
+- Acquired in Sept or Oct 2024 from bonsai club raffle.
+- **Styling notes:** Comes from a thick cutting so the trunk is a bit stubby. Waiting for more vigorous growth before making styling decisions.
+- **Last repotting - Late Jan 2025**
+- **Sunlight - Full sun**
+- **Watering:** Water thoroughly when top layer of soil is dry.
+- **Growing season:** Spring through fall.
+- **Dormant season:** Winter, but occasionally still sprouts leaves during warmer weeks.
+- **Soil and Fertilizer:** Osmocote pellets during growing season. Standard training mix.
+
+### rosemary
+
+- Propagated in Mar 2025 from cuttings in garden.
+- **Styling notes:** Club president has a beautiful rosemary bonsai that he brings to meetings sometimes, and it smells like heaven when it gets trimmed.
+- **Last repotting - Late Mar 2025**
+- **Sunlight - Full sun**
+- **Watering:** Prefers soil somewhat on the dry side, but intolerant to drought and sensitive to overwatering. Water thoroughly when soil is mostly, but not completely, dried out.
+- **Growing season:** Year-round.
+- **Dormant season:** Evergreen shrub.
+- **Soil and Fertilizer:** Using a mix of my training soil on the bottom topped with a layer of sandy soil from the parent plant, topped with sphagnum moss. Using osmocote for fertilizer. I've read that rosemary prefers a sandy soil so that's why I used some of the soil from the planter that the cuttings came from. Fish emulsion once per month during growing season, and sprayed as foliar feed.
 
 ## other notes.
 
 #### bonsai wishlist/todo:
 
-- Rosemary (propagate from cutting)
-- Corkbark jade (have but needs styling)
+- Corkbark jade (have but needs repotting and styling)
 - Liquid amber/Sweetgum
 - Wisteria
-- Black pine
 - Paperbark tree (grew up around these in southern California, curious about trying to bonsai one)
 
 #### soil and fertilizer:
