@@ -122,11 +122,22 @@ In 2024 I joined my local bonsai club and am learning at a much more rapid pace 
 - **Dormant season:** Evergreen shrub.
 - **Soil and Fertilizer:** Using a mix of my training soil on the bottom topped with a layer of sandy soil from the parent plant, topped with sphagnum moss. Using osmocote for fertilizer. I've read that rosemary prefers a sandy soil so that's why I used some of the soil from the planter that the cuttings came from. Fish emulsion once per month during growing season, and sprayed as foliar feed.
 
+### p afra
+
+- Acquired in May 2024 from bonsai club raffle.
+- **Styling notes:** Came styled as a forest in a nursery pot, going to keep it as a forest after repotting into grow box.
+- **Last repotting - Mid April 2025**
+- **Sunlight - Full sun**
+- **Watering:** Succulent that doesn't require frequent watering.
+- **Growing season:** Year-round.
+- **Dormant season:** Evergreen succulent.
+- **Soil and Fertilizer:** Standard training mix and fertilizer.
+
 ## other notes.
 
 #### bonsai wishlist/todo:
 
-- Corkbark jade (have but needs repotting and styling)
+- Bougainvillea (have but needs repotting)
 - Liquid amber/Sweetgum
 - Wisteria
 - Paperbark tree (grew up around these in southern California, curious about trying to bonsai one)
