@@ -2,7 +2,7 @@
 
 ## a looping sample player built for live performance.
 
-*Currently in active development.*
+*Currently in active development. more info coming soon :)*
 
 <video width="560" height="315" controls>
   <source src="https://assets.merveilles.town/media_attachments/files/114/242/991/359/988/854/original/a813a404c0a8659b.mp4" type="video/mp4">
