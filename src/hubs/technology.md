@@ -8,10 +8,8 @@ My notes on technology as a hobbyist hacker recently turned professional softwar
 
 ## recently updated others:
 
+[[bike ufo]] - EV-like artificial engine sounds for fixed gear bicycle.
+
 [[vim]] - My cheatsheet for nvim... learning little by little!
 
 [[c programming]] - My favorite programming language and cheatsheet for using pointers.
-
-[[embedded]] - Notes on my passion for embedded systems.
-
-[[embedded programming in c]] - My cheatsheets for embedded programming in C.
