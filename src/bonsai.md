@@ -67,6 +67,28 @@ In 2024 I joined my local bonsai club and am learning at a much more rapid pace 
 - **Dormant season:** Evergreen shrub.
 - **Soil and Fertilizer:** Unsure of current soil. Has inorganic matter and moss sprinkled on top. Using osmocote for fertilizer.
 
+### p afra
+
+- Acquired in May 2024 from bonsai club raffle.
+- **Styling notes:** Came styled as a forest in a nursery pot, going to keep it as a forest after repotting into grow box.
+- **Last repotting - Mid April 2025**
+- **Sunlight - Full sun**
+- **Watering:** Succulent that doesn't require frequent watering.
+- **Growing season:** Year-round.
+- **Dormant season:** Evergreen succulent.
+- **Soil and Fertilizer:** Standard training mix and fertilizer.
+
+### pomegranate
+
+- Acquired in Sept or Oct 2024 from bonsai club raffle.
+- **Styling notes:** Comes from a thick cutting so the trunk is a bit stubby. Waiting for more vigorous growth before making styling decisions.
+- **Last repotting - Late Jan 2025**
+- **Sunlight - Full sun**
+- **Watering:** Water thoroughly when top layer of soil is dry.
+- **Growing season:** Spring through fall.
+- **Dormant season:** Winter, but occasionally still sprouts leaves during warmer weeks.
+- **Soil and Fertilizer:** Osmocote pellets during growing season. Standard training mix.
+
 ### nana junipers
 
 - Acquired in Nov 2024 from local nursery. 
@@ -91,25 +113,14 @@ In 2024 I joined my local bonsai club and am learning at a much more rapid pace 
 
 ### japanese maple
 
-- Acquired in Sept or Oct 2024 from bonsai club raffle.
-- **Styling notes:** Cut in half and tried to bend trunk as hard as I could. Need to allow it to recover and grow vigorously, then will probably cut back again to start developing.
+- Acquired in Jan 2024 from local nursery.
+- **Styling notes:** Growth is dense and not much movement in the trunk, so looking at broom style.
 - **Last repotting - Late Jan 2025**
 - **Sunlight - Shade/Partial:** Is vulnerable to full sun during hottest months.
 - **Watering:** Prefers more moisture. During hottest times of year make sure soil remains moist.
-- **Growing season:** Grows visible buds in the fall and winter which don't push out until the spring. Goes visibly dormant in fall.
+- **Growing season:** Grows visible buds in the fall and winter which don't push out until the spring.
 - **Dormant season:** Goes dormant around october.
 - **Soil and Fertilizer:** Osmocote pellets during growing season for now. Standard training mix.
-
-### pomegranate
-
-- Acquired in Sept or Oct 2024 from bonsai club raffle.
-- **Styling notes:** Comes from a thick cutting so the trunk is a bit stubby. Waiting for more vigorous growth before making styling decisions.
-- **Last repotting - Late Jan 2025**
-- **Sunlight - Full sun**
-- **Watering:** Water thoroughly when top layer of soil is dry.
-- **Growing season:** Spring through fall.
-- **Dormant season:** Winter, but occasionally still sprouts leaves during warmer weeks.
-- **Soil and Fertilizer:** Osmocote pellets during growing season. Standard training mix.
 
 ### rosemary
 
@@ -122,24 +133,35 @@ In 2024 I joined my local bonsai club and am learning at a much more rapid pace 
 - **Dormant season:** Evergreen shrub.
 - **Soil and Fertilizer:** Using a mix of my training soil on the bottom topped with a layer of sandy soil from the parent plant, topped with sphagnum moss. Using osmocote for fertilizer. I've read that rosemary prefers a sandy soil so that's why I used some of the soil from the planter that the cuttings came from. Fish emulsion once per month during growing season, and sprayed as foliar feed.
 
-### p afra
+### liquidambar (sweetgum)
 
-- Acquired in May 2024 from bonsai club raffle.
-- **Styling notes:** Came styled as a forest in a nursery pot, going to keep it as a forest after repotting into grow box.
-- **Last repotting - Mid April 2025**
+- Acquired in June 2024 from local nursery.
+- **Styling notes:** None yet, in small nursery pot so will be letting grow out and repotting next spring.
+- **Last repotting - None**
+- **Sunlight - Full:** Provide some cover midday during hottest months.
+- **Watering:** Avoid drying out. Likes humidity.
+- **Growing season:** Spring through fall.
+- **Dormant season:** Goes dormant in winter.
+- **Soil and Fertilizer:** Osmocote pellets during growing season for now. Standard training mix once repotted, now in nursery pot and soil.
+
+### shimpaku juniper
+
+- Acquired in June 2024 from local nursery.
+- **Styling notes:** Going for semi-cascade or informal upright.
+- **Last repotting - None**
 - **Sunlight - Full sun**
-- **Watering:** Succulent that doesn't require frequent watering.
-- **Growing season:** Year-round.
-- **Dormant season:** Evergreen succulent.
-- **Soil and Fertilizer:** Standard training mix and fertilizer.
+- **Watering:** Water thoroughly daily. Should not be allowed to dry out completely and always remain a little moist.
+- **Growing season:**  Grows year-round, but most vigorous growth in spring through summer.
+- **Dormant season:** Evergreen.
+- **Soil and Fertilizer:** Fish emulsion once per month during growing season, and sprayed as foliar feed. Standard training mix.
 
 ## other notes.
 
 #### bonsai wishlist/todo:
 
 - Bougainvillea (have but needs repotting)
-- Liquid amber/Sweetgum
 - Wisteria
+- Hokkaido elm
 - Paperbark tree (grew up around these in southern California, curious about trying to bonsai one)
 
 #### soil and fertilizer:
