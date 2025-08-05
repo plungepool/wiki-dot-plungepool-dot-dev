@@ -160,6 +160,7 @@ In 2024 I joined my local bonsai club and am learning at a much more rapid pace 
 #### bonsai wishlist/todo:
 
 - Bougainvillea (have but needs repotting)
+- Kotohime maple
 - Wisteria
 - Hokkaido elm
 - Paperbark tree (grew up around these in southern California, curious about trying to bonsai one)
