@@ -50,13 +50,13 @@ fx - find in line
 
 % - jump to matching bracket
 
-\<C-d\> - Move screen down (1/2 page)
+<C-d\> - Move screen down (1/2 page)
 
-\<C-u\> - Move screen up (1/2 page)
+<C-u\> - Move screen up (1/2 page)
 
-\<C-f\> - Move screen down/"forward" (full page)
+<C-f\> - Move screen down/"forward" (full page)
 
-\<C-b\> - Move screen up/"back" (full page)
+<C-b\> - Move screen up/"back" (full page)
 
 ### **Modes**
 
