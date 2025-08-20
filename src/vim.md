@@ -170,6 +170,8 @@ gg=G - autoformat/indent whole file
 
 :%s/old/new/gc - same but asks for confirmation for each one
 
+'/' can be substituted for other pattern delimiters such as #, check `:h pattern-delimiter` for more information
+
 ### **Help**
 
 :help - opens help text, use help \<something\> to search for docs on a particular thing
