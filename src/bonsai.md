@@ -163,6 +163,7 @@ In 2024 I joined my local bonsai club and am learning at a much more rapid pace 
 - Kotohime maple
 - Wisteria
 - Hokkaido elm
+- Coast redwood
 - Paperbark tree (grew up around these in southern California, curious about trying to bonsai one)
 
 #### soil and fertilizer:
