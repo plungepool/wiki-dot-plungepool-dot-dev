@@ -100,9 +100,9 @@ y - yank (copy)
 
 yy - yank whole line
 
-p - put/paste
+p - put/paste after cursor
 
-P - paste without overwriting clipboard
+P - put/paste before cursor (sometimes pastes without overwriting register)
 
 r - replace
 
