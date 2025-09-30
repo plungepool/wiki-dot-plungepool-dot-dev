@@ -114,6 +114,8 @@ O - new line above cursor
 
 V - select whole line
 
+. - repeat previous command
+
 ### **Files**
 
 nvim * - open all files in current folder
