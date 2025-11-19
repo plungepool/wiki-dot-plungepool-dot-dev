@@ -6,7 +6,7 @@ A collection of other interests that do not fall neatly under the umbrella of ei
 
 [[bonsai]] - Notes and logs about my various bonsai trees and general bonsai care.
 
-[[video games]] - A few older titles that have fostered new obsessions.
+[[games]] - A few older titles that have fostered new obsessions.
 
 ## recently updated others:
 

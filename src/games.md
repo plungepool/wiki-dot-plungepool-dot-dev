@@ -1,4 +1,4 @@
-# video games.
+# games.
 
 ## a few older titles that have fostered new obsessions.
 
