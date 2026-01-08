@@ -140,8 +140,6 @@ F1 - new window
 
 <C-w\> - change window
 
-<C-d\> or Tab - autocomplete command
-
 :tabnew [filename] - open file in new tab
 
 :e [filename] - edit or create file by filename
@@ -178,4 +176,4 @@ gg=G - autoformat/indent whole file
 
 :help - opens help text, use help \<something\> to search for docs on a particular thing
 
-<C-w\> <C-d\>  - Open LSP error and warning text in overlay (kickstart.nvim config)
+<C-q\> - Open LSP error and warning text in overlay (kickstart.nvim config)
