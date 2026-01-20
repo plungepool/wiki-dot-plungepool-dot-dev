@@ -28,7 +28,7 @@ In 2024 I attended the very first [VCF Socal](https://www.vcfsocal.com/) which h
 
 ## Behringer TD-3-Yellow
 
-On loan indefinitely from a friend who wasn't really vibing with it. As most people who have touched a 303 before will tell you, it's dreadful to program or even generally use as intended. That's why most jungle basslines are fairly simple and repetitive and the variation comes from messing with the filters. I tried to learn and it never stuck. Recently though I started sending midi to it and running the output through my **Darkglass B7K Ultra** which kicks ass. Probably my go-to for any synth bass from now on.
+On loan indefinitely from a friend who wasn't really vibing with it. As most people who have touched a 303 before will tell you, it's dreadful to program or even generally use as intended. That's why many of the dance music genres that made it famous use it for fairly simple and repetitive bassline patterns and the variation comes from messing with the filters. I tried to learn and it never stuck. Recently though I started sending midi to it and running the output through my **Darkglass B7K Ultra** which kicks ass. Probably my go-to for any synth bass from now on.
 
 ## Eurorack
 
