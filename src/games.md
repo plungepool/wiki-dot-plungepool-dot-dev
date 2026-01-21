@@ -6,7 +6,7 @@
 
 ### Magic: The Gathering
 
-![magic-the-gathering](C:\Users\r3dk9\Dropbox\Programming\Project-Repos\wiki-dot-plungepool-dot-dev\media\magic-the-gathering.jpg)
+![magic-the-gathering](../media/magic-the-gathering.jpg)
 
 MtG is the most fun I've had with any game in years. I'd resisted getting into Magic up until now having played and eventually written off many other physical and digital TCGs. The problem was always the same: deckbuilding with the limited cards you've pulled from boosters is fun, but playing those decks against optimized or meta decks is not very fun.
 
