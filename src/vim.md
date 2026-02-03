@@ -158,6 +158,12 @@ gg=G - autoformat/indent whole file
 
 <C-v\> -\> select character to remove -\> x or d
 
+**Comment/uncomment with kickstart.nvim**
+
+gcc - single line
+
+gc - multiple lines
+
 ### **Substitute**
 
 :s/old/new - substitutes new for first old in line
