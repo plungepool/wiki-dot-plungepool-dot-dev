@@ -114,7 +114,11 @@ O - new line above cursor
 
 V - select whole line
 
-. - repeat previous command
+. - repeat previous motion
+
+q[a] - begin recording motion to register a
+
+@q[a] - replay recorded motion in register a
 
 ### **Files**
 
