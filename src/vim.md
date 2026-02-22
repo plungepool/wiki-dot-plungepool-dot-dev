@@ -116,9 +116,15 @@ V - select whole line
 
 . - repeat previous motion
 
-q[a] - begin recording motion to register a
+q[a] - begin recording motion to register a (valid registers are a through z)
+
+q - stop recording (if currently recording)
 
 @q[a] - replay recorded motion in register a
+
+"0y = yank into register 0 (valid registers are 0 through 9, also works with x and d motions)
+
+"0p = paste from register 0 (registers 0 through 9 contain a rolling history of previously yanked or deleted text)
 
 ### **Files**
 
