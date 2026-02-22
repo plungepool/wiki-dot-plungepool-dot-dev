@@ -84,8 +84,11 @@
 <p>O - new line above cursor</p>
 <p>V - select whole line</p>
 <p>. - repeat previous motion</p>
-<p>q[a] - begin recording motion to register a</p>
+<p>q[a] - begin recording motion to register a (valid registers are a through z)</p>
+<p>q - stop recording (if currently recording)</p>
 <p>@q[a] - replay recorded motion in register a</p>
+<p>"0y = yank into register 0 (valid registers are 0 through 9, also works with x and d motions)</p>
+<p>"0p = paste from register 0 (registers 0 through 9 contain a rolling history of previously yanked or deleted text)</p>
 <h3><strong>Files</strong></h3>
 <p>nvim * - open all files in current folder</p>
 <p>:w - save(write) current file</p>
