@@ -2,6 +2,14 @@
 
 ## a few older titles that have fostered new obsessions.
 
+# 2026
+
+### Riviera: The Promised Land
+
+![riviera](C:\Users\r3dk9\Dropbox\Programming\Project-Repos\wiki-dot-plungepool-dot-dev\media\riviera.jpg)
+
+A minimalist visual novel/dungeon crawler hybrid originally for the WonderSwan Color, then the Game Boy Advance, then the PSP, then most recently the PC, Switch, and mobile. It's amazing how a game that was so clearly driven by the restrictions of its origin hardware in its design decisions still completely holds up today. Every system in this game is an extremely simplified version of classic RPG and dungeon-crawler elements, but adds up into something much greater and deeper than the sum of its parts. It's so damn focused, charming, and addicting! For fans of Japanese visual novels and/or JRPGs especially, this to me is a must-play and something I will be pushing onto people for the foreseeable future.
+
 # 2025
 
 ### Magic: The Gathering
