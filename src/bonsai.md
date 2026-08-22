@@ -90,7 +90,7 @@ In 2024 I joined my local bonsai club and am learning at a much more rapid pace 
 ### japanese maple
 
 - Acquired in Jan 2024 from local nursery.
-- **Styling notes:** Growth is dense and not much movement in the trunk, so looking at broom style.
+- **Styling notes:** Growth is dense and not much movement in the trunk, so looking at broom style. Much easier to prune when dormant as foliage grows in thick, so mostly looking to work on styling during winter and letting grow wild during spring and summer to promote trunk development.
 - **Last repotting - Late Jan 2025**
 - **Sunlight - Shade/Partial sun:** Is vulnerable to full sun during hottest months.
 - **Growing season:** Grows visible buds in the fall and winter which don't push out until the spring.
@@ -98,8 +98,8 @@ In 2024 I joined my local bonsai club and am learning at a much more rapid pace 
 
 ### rosemary
 
-- Propagated in Mar 2025 from cuttings in garden.
-- **Styling notes:** Club president has a beautiful rosemary bonsai that he brings to meetings sometimes, and it smells like heaven when it gets trimmed.
+- Propagated in Mar 2025 from three cuttings in garden.
+- **Styling notes:** Club president has a beautiful rosemary bonsai that he brings to meetings sometimes, and it smells like heaven when it gets trimmed. After growing for a while will move each cutting to its own pot for further development.
 - **Last repotting - Late Mar 2025**
 - **Sunlight - Full sun**
 - **Growing season:** Year-round.
@@ -107,36 +107,44 @@ In 2024 I joined my local bonsai club and am learning at a much more rapid pace 
 
 ### liquidambar (sweetgum)
 
-- Acquired in June 2024 from local nursery.
-- **Styling notes:** None yet, in small nursery pot so will be letting grow out and repotting next spring.
-- **Last repotting - None**
+- Acquired in June 2025 from local nursery.
+- **Styling notes:** None yet, letting develop undisturbed after repotting.
+- **Last repotting - Mar 2026**
 - **Sunlight - Full:** Provide some cover midday during hottest months.
 - **Growing season:** Spring through fall.
 - **Dormant season:** Goes dormant in winter.
 
 ### shimpaku juniper
 
-- Acquired in June 2024 from local nursery.
+- Acquired in June 2025 from local nursery.
 - **Styling notes:** Going for semi-cascade or informal upright.
-- **Last repotting - None**
-- **Sunlight - Full**
-- **Growing season:**  Grows year-round, but most vigorous growth in spring through summer.
+- **Last repotting - Mar 2026**
+- **Sunlight - Full sun**
+- **Growing season:**  Grows slowly year-round, but most vigorous growth in late summer. May develop brownish "fall color" and appear a bit shabby while still being alive.
+- **Dormant season:** Evergreen.
+
+### bougainvillea 
+
+- Repurposed from a garden plant in March 2026.
+- **Styling notes:** Already has an interesting shape so looking to develop it from that.
+- **Last repotting - Mar 2026**
+- **Sunlight - Full sun**
+- **Growing season:**  Year-round.
 - **Dormant season:** Evergreen.
 
 ## other notes.
 
 #### bonsai wishlist/todo:
 
-- Bougainvillea (have but needs repotting)
+- Hokkaido elm
 - Kotohime maple
 - Wisteria
-- Hokkaido elm
 - Coast redwood
 - Paperbark tree (grew up around these in southern California, curious about trying to bonsai one)
 
 #### soil and fertilizer:
 
-- Standard mix for conifers but good for all trees in training: Even mix between large grain pumice, red lava rock, and pinebark. Add akadama to mix and orchid/sphagnum moss on top for trees not in training. Can also increase ratio up to 50% with pinebark/akadama or cactus mix because they hold water better.
+- Standard mix for conifers but good for all trees in training: Even mix between large grain pumice, red lava rock, and pinebark. Can optionally add shredded orchid/sphagnum moss into mixture or on top to increase water retention. For trees not in training, can add quality akadama to mix.
 - Large grain pumice use 3/16ths size for smaller trees, 3/8ths for larger.
 - For trees in training: Good easy fertilizer during growing season is Bioadvanced Osmocote every 3 months. Releases faster with water and heat, so more fertilizer is released from pellets during warm season when the bonsai is also getting more water.
 - For conifers: Fish and kelp emulation for fertilizer once a month (recommended Organic Fish and Kelp Liquid Fertilizer by Kellogg Garden Organics). Can also use as a foliar feed diluted in spray bottle.
@@ -147,5 +155,5 @@ In 2024 I joined my local bonsai club and am learning at a much more rapid pace 
 #### watering guide for bonsai-sitters:
 
 - The bonsai in winter dormancy will most likely each need watering every 2-3 days if it hasn't rained. If the soil still seems damp on the second day wait till the 3rd. If it gets hot out (80+ degrees) check to see every day if the soil has dried out faster and water more if needed.
-- In the summer, expect to water every day. If the soil is still damp about an inch deep, consider delaying watering for another day or half day. In especially hot weather, multiple waterings in a single day may be required. The exception to this are pre-bonsai in oversized grow boxes, which generally retain enough water for 1.5 to 2 days at minimum.
+- In the summer, expect to water every day. In especially hot weather, multiple waterings in a single day may be advisable. The exception to this are pre-bonsai in oversized grow boxes, which generally retain enough water for 1.5 to 2 days at minimum. However, during harsh weather, it is better to err on the side of over-watering than to under-water.
 - Soak the soil until it's completely wet and water is running out the bottom of the pot. Standard training mix as outlined above is difficult to over-water because of its excellent drainage.
