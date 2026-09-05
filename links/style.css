@@ -38,7 +38,6 @@ img {
     max-width: 100%;
     height: auto;
     width: auto\9; /* ie8 */
-    vertical-align: middle;
     /* FIXME: Pages with images are off-center, why?*/
     /*Conflict wth img tag and .index?*/
 }
