@@ -14,6 +14,8 @@ Being a stoic isn't about being cold and unfeeling, it's about **separating the 
 
 The circumstances that are within your control to change you must be confident in yourself to rise to the challenge they present to you to the best of your ability.
 
+<video src="../media/theres no point worrying about things you cant fix.mp4" controls=""></video>
+
 External circumstances are beyond our power to change, and **the only thing you have control over is how you respond to them**.
 
 > "Some things are in our control and others not. Things in our control are opinion, pursuit, desire, aversion, and, in a word, whatever are our own actions. Things not in our control are body, property, reputation, command, and, in one word, whatever are not our own actions.
