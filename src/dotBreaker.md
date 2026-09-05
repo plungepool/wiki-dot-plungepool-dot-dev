@@ -4,10 +4,8 @@
 
 *Currently in active development. more info coming soon :)*
 
-<center><video width="480" height="360" controls>
-  <source src="https://assets.merveilles.town/media_attachments/files/114/242/991/359/988/854/original/a813a404c0a8659b.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video></center>
+<center><video width="240" height="180" src="https://assets.merveilles.town/media_attachments/files/114/242/991/359/988/854/original/a813a404c0a8659b.mp4"></video></center>
+
 
 
 

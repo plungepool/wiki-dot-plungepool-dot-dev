@@ -14,7 +14,7 @@ Being a stoic isn't about being cold and unfeeling, it's about **separating the 
 
 The circumstances that are within your control to change you must be confident in yourself to rise to the challenge they present to you to the best of your ability.
 
-<center><video width="480" height="360" src="../media/theres no point worrying about things you cant fix.mp4" controls=""></video></center>
+<center><video width="360" height="270" src="../media/theres no point worrying about things you cant fix.mp4" controls=""></video></center>
 
 External circumstances are beyond our power to change, and **the only thing you have control over is how you respond to them**.
 

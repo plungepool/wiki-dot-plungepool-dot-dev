@@ -2,4 +2,4 @@
 
 An electronic rock project started in 2022. The project seeks to experiment with releasing music outside of predatory music streaming services like Spotify in favor of self-hosting and p2p sharing. First released track was a remix of Touch The Sun by Cryalot in August 2022 with original music and more remixes to come in 2024 and 2025. [The band name is the website.](https://freeware.fyi)
 
-<center><iframe width="480" height="360" src="https://www.youtube.com/embed/tZisldFKCsI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+<center><iframe width="360" height="270" src="https://www.youtube.com/embed/tZisldFKCsI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
