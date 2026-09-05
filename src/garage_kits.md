@@ -2,7 +2,7 @@
 
 Garage kits are figurines you build and paint yourself, usually designed by small creators in limited quantities. Below are my notes about different tips and tricks I've picked up since I've started building them.
 
-![daicon-garage-kit](../../media/daicon-garage-kit.JPG)
+![daicon-garage-kit](../media/daicon-garage-kit.JPG)
 
 *Photo: Daicon IV soft vinyl garage kit by Nankoku Factory*
 
@@ -47,4 +47,4 @@ coming soon :)
 - Try different finishes for different parts - did Gloss for suit and shoes and matte for everything else. Matte over gloss WILL dull the glossy look a bit. Next time either need to mask properly or do the matte coat first on everything, then mask off and do another layer on glossy parts
 - Even with Mr. Topcoat paint still gets scuffed and scratches easily!!! Try different sealant next time?? Or maybe this is just an issue with vinyl
 
-![top_coat_compatibility](../../media/top_coat_compatibility.png)
+![top_coat_compatibility](../media/top_coat_compatibility.png)
