@@ -4,7 +4,7 @@
 
 *Currently in active development. more info coming soon :)*
 
-<center><video width="240" height="180" src="https://assets.merveilles.town/media_attachments/files/114/242/991/359/988/854/original/a813a404c0a8659b.mp4"></video></center>
+<center><video width="360" height="270" src="../media/dotbreaker_demo.mp4"></video></center>
 
 
 
