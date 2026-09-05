@@ -30,7 +30,7 @@ Always share your vision with your engineer. This helps them to come up with eff
 
 I made this half-hour long video about the perceived loudness of a song goes far beyond dynamic range and compression. The reasons may surprise you!
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/MBQ_rBcNnN4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+<center><iframe width="480" height="270" src="https://www.youtube.com/embed/MBQ_rBcNnN4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
 Accompanying this video I recommend reading [one of the best posts about mastering ever made on Gearspace.com](https://gearspace.com/board/mastering-forum/1252522-targeting-mastering-loudness-streaming-lufs-spotify-youtube-why-not-do.html), which is imporant enough that I have chosen to mirror it  (pre-2021 update) below. 
 

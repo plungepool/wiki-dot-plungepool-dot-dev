@@ -4,7 +4,7 @@
 
 *The MIDIchamp DrumStik 3D is a USB MIDI instrument. It uses a professional-grade Sanwa JLF arcade stick as a performance, writing, and inspirational tool for MIDI-based music. With USB MIDI clock input, it can generate 14 unique drum trigger patterns which can be combined into infinite variations on the fly. It also generates notes in 22 preset scales, perfect for improvised melodic content as well as sample triggering.*
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/iyNa6y4uH7M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+<center><iframe width="480" height="270" src="https://www.youtube.com/embed/iyNa6y4uH7M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
 This was my first "serious" foray into programming in 2019 - and it was born out of absolute burnout with the music industry. At the time I was working on it with the idea of it becoming a commercial product that I could sell, mostly so that I could stop working so much in recording studios where I was often doing 12-15 hour days for low pay, weeks on end. I was stuck in a dead-end with no foreseeable opportunities beyond what I had already achieved.
 
