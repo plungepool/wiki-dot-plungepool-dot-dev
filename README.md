@@ -9,6 +9,6 @@ Static site generation inspired by [Oscean](https://github.com/XXIIVV/oscean) an
 3) Static HTML generated to site folder
 
 ## Todo:
-- Automate checking for and resizing large images during deployment pipeline.
+- Automate checking for and resizing large images during deployment pipeline: https://kokorobot.ca/site/image_optimization.html
 - Create and automate generation of RSS feed and changelog/recent changes page.
 - Add dark background mode (#181B1A)
