@@ -12,9 +12,7 @@
 
 ## recent production credits.
 
-[Ressentiment (Meishi Smile)](https://meishismile.bandcamp.com/album/ressentiment) - I've been mixing stuff for my good friend Meishi Smile since 2014 and this record to me is one of the best-sounding I've ever done IMO. At least until the next one ;)
-
-[melencolia i (Meishi Smile)](https://meishismile.bandcamp.com/album/melencolia-i) - A more recent EP representing more of the pop and ambient side of Meishi, some of these songs have been kicking around for almost a decade so it was an honor to work on the "album" versions of them.
+[Ressentiment (Meishi Smile)](https://meishismile.bandcamp.com/album/ressentiment) - I've been mixing stuff for my good friend Meishi Smile since 2014 and this record to me is one of the best-sounding I've ever done IMO. At least until the [next one](https://meishismile.bandcamp.com/album/limerence) ;)
 
 [HYPERPUNK (Qbomb)](https://qbomb.bandcamp.com/album/hyperpunk) - I worked with Qbomb for several years on their demos and recording about 95% of this record before they were signed to Ghost Pixel Records and the project was handed off to another producer in the summer of 2021 to polish up and finish. The record finally came out in October 2022 and I couldn't be prouder of these guys!
 
