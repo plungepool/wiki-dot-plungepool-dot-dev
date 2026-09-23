@@ -16,6 +16,8 @@
 
 [[bike ufo]] - EV-like artificial engine sounds for fixed gear bicycle.
 
+[[playdate instruments]] - Simple musical instruments for Playdate by Panic.
+
 [[ceevolt]] - Bluetooth wireless MIDI to eurorack CV converter.
 
 [[cnsolidatr]] - Small python app for consolidating files from multiple folders.
